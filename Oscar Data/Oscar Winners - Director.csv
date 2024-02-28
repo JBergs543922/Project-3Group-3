@@ -1,33 +1,33 @@
 index,Year,Gender,Race,Director(s),Film,Nomination/Winner
-0,1927/28 ,Male,White,Frank Borzage (Dramatic Picture),7th Heaven,Winner
-1,1927/28 ,Male,White,Herbert Brenon(Dramatic Picture),Sorrell and Son,Nomination
-2,1927/28 ,Male,White,King Vidor(Dramatic Picture),The Crowd,Nomination
-3,1927/28 ,Male,White,Lewis Milestone (Comedy Picture),Two Arabian Knights,Winner
-4,1927/28 ,Male,White,Ted Wilde(Comedy Picture),Speedy,Nomination
-5,1928/1929,Male,White,Frank Lloyd,The Divine Lady,Winner
-6,1928/1929,Male,White,Lionel Barrymore,Madame X,Nomination
-7,1928/1929,Male,White,Harry Beaumont,The Broadway Melody,Nomination
-8,1928/1929,Male,White,Irving Cummings,In Old Arizona,Nomination
-9,1928/1929,Male,White,Frank Lloyd,Drag,Nomination
-10,1928/1929,Male,White,Frank Lloyd,Weary River,Nomination
-11,1928/1929,Male,White,Ernst Lubitsch,The Patriot,Nomination
-12,1929/1930,Male,White,Lewis Milestone,All Quiet on the Western Front,Winner
-13,1929/1930,Male,White,Clarence Brown,Anna Christie,Nomination
-14,1929/1930,Male,White,Clarence Brown,Romance,Nomination
-15,1929/1930,Male,White,Robert Z. Leonard,The Divorcee,Nomination
-16,1929/1930,Male,White,Ernst Lubitsch,The Love Parade,Nomination
-17,1929/1930,Male,White,King Vidor,Hallelujah!,Nomination
-18,1930/1931,Male,White,Norman Taurog,Skippy,Winner
-19,1930/1931,Male,White,Clarence Brown,A Free Soul,Nomination
-20,1930/1931,Male,White,Lewis Milestone,The Front Page,Nomination
-21,1930/1931,Male,White,Wesley Ruggles,Cimarron,Nomination
-22,1930/1931,Male,White,Josef von Sternberg,Morocco,Nomination
-23,1931/1932,Male,White,Frank Borzage,Bad Girl,Winner
-24,1931/1932,Male,White,King Vidor,The Champ,Nomination
-25,1931/1932,Male,White,Josef von Sternberg,Shanghai Express,Nomination
-26,1932/1933,Male,White,Frank Lloyd,Cavalcade,Winner
-27,1932/1933,Male,White,Frank Capra,Lady for a Day,Nomination
-28,1932/1933,Male,White,George Cukor,Little Women,Nomination
+0,1928 ,Male,White,Frank Borzage (Dramatic Picture),7th Heaven,Winner
+1,1928 ,Male,White,Herbert Brenon(Dramatic Picture),Sorrell and Son,Nomination
+2,1928 ,Male,White,King Vidor(Dramatic Picture),The Crowd,Nomination
+3,1928 ,Male,White,Lewis Milestone (Comedy Picture),Two Arabian Knights,Winner
+4,1928 ,Male,White,Ted Wilde(Comedy Picture),Speedy,Nomination
+5,1929,Male,White,Frank Lloyd,The Divine Lady,Winner
+6,1929,Male,White,Lionel Barrymore,Madame X,Nomination
+7,1929,Male,White,Harry Beaumont,The Broadway Melody,Nomination
+8,1929,Male,White,Irving Cummings,In Old Arizona,Nomination
+9,1929,Male,White,Frank Lloyd,Drag,Nomination
+10,1929,Male,White,Frank Lloyd,Weary River,Nomination
+11,1929,Male,White,Ernst Lubitsch,The Patriot,Nomination
+12,1930,Male,White,Lewis Milestone,All Quiet on the Western Front,Winner
+13,1930,Male,White,Clarence Brown,Anna Christie,Nomination
+14,1930,Male,White,Clarence Brown,Romance,Nomination
+15,1930,Male,White,Robert Z. Leonard,The Divorcee,Nomination
+16,1930,Male,White,Ernst Lubitsch,The Love Parade,Nomination
+17,1930,Male,White,King Vidor,Hallelujah!,Nomination
+18,1931,Male,White,Norman Taurog,Skippy,Winner
+19,1931,Male,White,Clarence Brown,A Free Soul,Nomination
+20,1931,Male,White,Lewis Milestone,The Front Page,Nomination
+21,1931,Male,White,Wesley Ruggles,Cimarron,Nomination
+22,1931,Male,White,Josef von Sternberg,Morocco,Nomination
+23,1932,Male,White,Frank Borzage,Bad Girl,Winner
+24,1932,Male,White,King Vidor,The Champ,Nomination
+25,1932,Male,White,Josef von Sternberg,Shanghai Express,Nomination
+26,1933,Male,White,Frank Lloyd,Cavalcade,Winner
+27,1933,Male,White,Frank Capra,Lady for a Day,Nomination
+28,1933,Male,White,George Cukor,Little Women,Nomination
 29,1934,Male,White,Frank Capra,It Happened One Night,Winner
 30,1934,Male,White,Victor Schertzinger,One Night of Love,Nomination
 31,1934,Male,White,W. S. Van Dyke,The Thin Man,Nomination
