@@ -28,12 +28,5 @@ CREATE TABLE MovieAppearance (
     FOREIGN KEY (movie, year) REFERENCES Film(film, year)
 );
 
-CREATE TABLE Winner (
-    year INT,
-    award VARCHAR(255),
-    name VARCHAR(255),
-    movie VARCHAR(255),
-    PRIMARY KEY (year, award),
-    FOREIGN KEY (name) REFERENCES Person(name),
-    FOREIGN KEY (movie, year) REFERENCES Film(film, year)
-);
+
+
