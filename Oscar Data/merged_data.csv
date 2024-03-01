@@ -1,0 +1,909 @@
+oscar_no,oscar_yr,award,name,movie,age,birth_pl,birth_date,birth_mo,birth_d,birth_y,index,Gender,Race,Director(s),Film,Nomination/Winner
+1,1929,Best actress,Janet Gaynor,7th Heaven,22,Pennsylvania,1906-10-06,10,6,1906,5,Male,White,Frank Lloyd,The Divine Lady,Winner
+1,1929,Best actress,Janet Gaynor,7th Heaven,22,Pennsylvania,1906-10-06,10,6,1906,6,Male,White,Lionel Barrymore,Madame X,Nomination
+1,1929,Best actress,Janet Gaynor,7th Heaven,22,Pennsylvania,1906-10-06,10,6,1906,7,Male,White,Harry Beaumont,The Broadway Melody,Nomination
+1,1929,Best actress,Janet Gaynor,7th Heaven,22,Pennsylvania,1906-10-06,10,6,1906,8,Male,White,Irving Cummings,In Old Arizona,Nomination
+1,1929,Best actress,Janet Gaynor,7th Heaven,22,Pennsylvania,1906-10-06,10,6,1906,9,Male,White,Frank Lloyd,Drag,Nomination
+1,1929,Best actress,Janet Gaynor,7th Heaven,22,Pennsylvania,1906-10-06,10,6,1906,10,Male,White,Frank Lloyd,Weary River,Nomination
+1,1929,Best actress,Janet Gaynor,7th Heaven,22,Pennsylvania,1906-10-06,10,6,1906,11,Male,White,Ernst Lubitsch,The Patriot,Nomination
+1,1929,Best actor,Emil Jannings,The Way of All Flesh & The Las,44,Switzerland,1884-07-23,7,23,1884,5,Male,White,Frank Lloyd,The Divine Lady,Winner
+1,1929,Best actor,Emil Jannings,The Way of All Flesh & The Las,44,Switzerland,1884-07-23,7,23,1884,6,Male,White,Lionel Barrymore,Madame X,Nomination
+1,1929,Best actor,Emil Jannings,The Way of All Flesh & The Las,44,Switzerland,1884-07-23,7,23,1884,7,Male,White,Harry Beaumont,The Broadway Melody,Nomination
+1,1929,Best actor,Emil Jannings,The Way of All Flesh & The Las,44,Switzerland,1884-07-23,7,23,1884,8,Male,White,Irving Cummings,In Old Arizona,Nomination
+1,1929,Best actor,Emil Jannings,The Way of All Flesh & The Las,44,Switzerland,1884-07-23,7,23,1884,9,Male,White,Frank Lloyd,Drag,Nomination
+1,1929,Best actor,Emil Jannings,The Way of All Flesh & The Las,44,Switzerland,1884-07-23,7,23,1884,10,Male,White,Frank Lloyd,Weary River,Nomination
+1,1929,Best actor,Emil Jannings,The Way of All Flesh & The Las,44,Switzerland,1884-07-23,7,23,1884,11,Male,White,Ernst Lubitsch,The Patriot,Nomination
+2,1930,Best actress,Mary Pickford,Coquette,37,Canada,1892-04-08,4,8,1892,12,Male,White,Lewis Milestone,All Quiet on the Western Front,Winner
+2,1930,Best actress,Mary Pickford,Coquette,37,Canada,1892-04-08,4,8,1892,13,Male,White,Clarence Brown,Anna Christie,Nomination
+2,1930,Best actress,Mary Pickford,Coquette,37,Canada,1892-04-08,4,8,1892,14,Male,White,Clarence Brown,Romance,Nomination
+2,1930,Best actress,Mary Pickford,Coquette,37,Canada,1892-04-08,4,8,1892,15,Male,White,Robert Z. Leonard,The Divorcee,Nomination
+2,1930,Best actress,Mary Pickford,Coquette,37,Canada,1892-04-08,4,8,1892,16,Male,White,Ernst Lubitsch,The Love Parade,Nomination
+2,1930,Best actress,Mary Pickford,Coquette,37,Canada,1892-04-08,4,8,1892,17,Male,White,King Vidor,Hallelujah!,Nomination
+2,1930,Best actor,Warner Baxter,In Old Arizona,40,Ohio,1889-03-29,3,29,1889,12,Male,White,Lewis Milestone,All Quiet on the Western Front,Winner
+2,1930,Best actor,Warner Baxter,In Old Arizona,40,Ohio,1889-03-29,3,29,1889,13,Male,White,Clarence Brown,Anna Christie,Nomination
+2,1930,Best actor,Warner Baxter,In Old Arizona,40,Ohio,1889-03-29,3,29,1889,14,Male,White,Clarence Brown,Romance,Nomination
+2,1930,Best actor,Warner Baxter,In Old Arizona,40,Ohio,1889-03-29,3,29,1889,15,Male,White,Robert Z. Leonard,The Divorcee,Nomination
+2,1930,Best actor,Warner Baxter,In Old Arizona,40,Ohio,1889-03-29,3,29,1889,16,Male,White,Ernst Lubitsch,The Love Parade,Nomination
+2,1930,Best actor,Warner Baxter,In Old Arizona,40,Ohio,1889-03-29,3,29,1889,17,Male,White,King Vidor,Hallelujah!,Nomination
+3,1931,Best actress,Norma Shearer,The Divorcee,28,Canada,1902-08-10,8,10,1902,18,Male,White,Norman Taurog,Skippy,Winner
+3,1931,Best actress,Norma Shearer,The Divorcee,28,Canada,1902-08-10,8,10,1902,19,Male,White,Clarence Brown,A Free Soul,Nomination
+3,1931,Best actress,Norma Shearer,The Divorcee,28,Canada,1902-08-10,8,10,1902,20,Male,White,Lewis Milestone,The Front Page,Nomination
+3,1931,Best actress,Norma Shearer,The Divorcee,28,Canada,1902-08-10,8,10,1902,21,Male,White,Wesley Ruggles,Cimarron,Nomination
+3,1931,Best actress,Norma Shearer,The Divorcee,28,Canada,1902-08-10,8,10,1902,22,Male,White,Josef von Sternberg,Morocco,Nomination
+3,1931,Best actor,George Arliss,Disraeli,62,England,1868-04-10,4,10,1868,18,Male,White,Norman Taurog,Skippy,Winner
+3,1931,Best actor,George Arliss,Disraeli,62,England,1868-04-10,4,10,1868,19,Male,White,Clarence Brown,A Free Soul,Nomination
+3,1931,Best actor,George Arliss,Disraeli,62,England,1868-04-10,4,10,1868,20,Male,White,Lewis Milestone,The Front Page,Nomination
+3,1931,Best actor,George Arliss,Disraeli,62,England,1868-04-10,4,10,1868,21,Male,White,Wesley Ruggles,Cimarron,Nomination
+3,1931,Best actor,George Arliss,Disraeli,62,England,1868-04-10,4,10,1868,22,Male,White,Josef von Sternberg,Morocco,Nomination
+4,1932,Best actress,Marie Dressler,Min and Bill,63,Canada,1868-11-09,11,9,1868,23,Male,White,Frank Borzage,Bad Girl,Winner
+4,1932,Best actress,Marie Dressler,Min and Bill,63,Canada,1868-11-09,11,9,1868,24,Male,White,King Vidor,The Champ,Nomination
+4,1932,Best actress,Marie Dressler,Min and Bill,63,Canada,1868-11-09,11,9,1868,25,Male,White,Josef von Sternberg,Shanghai Express,Nomination
+4,1932,Best actor,Lionel Barrymore,A Free Soul,53,Pennsylvania,1878-04-28,4,28,1878,23,Male,White,Frank Borzage,Bad Girl,Winner
+4,1932,Best actor,Lionel Barrymore,A Free Soul,53,Pennsylvania,1878-04-28,4,28,1878,24,Male,White,King Vidor,The Champ,Nomination
+4,1932,Best actor,Lionel Barrymore,A Free Soul,53,Pennsylvania,1878-04-28,4,28,1878,25,Male,White,Josef von Sternberg,Shanghai Express,Nomination
+5,1933,Best actress,Helen Hayes,The Sin of Madelon Claudet,32,Washington DC,1900-10-10,10,10,1900,26,Male,White,Frank Lloyd,Cavalcade,Winner
+5,1933,Best actress,Helen Hayes,The Sin of Madelon Claudet,32,Washington DC,1900-10-10,10,10,1900,27,Male,White,Frank Capra,Lady for a Day,Nomination
+5,1933,Best actress,Helen Hayes,The Sin of Madelon Claudet,32,Washington DC,1900-10-10,10,10,1900,28,Male,White,George Cukor,Little Women,Nomination
+5,1933,Best actor,Fredric March,Dr. Jekyll and Mr. Hyde,35,Wisconsin,1897-08-31,8,31,1897,26,Male,White,Frank Lloyd,Cavalcade,Winner
+5,1933,Best actor,Fredric March,Dr. Jekyll and Mr. Hyde,35,Wisconsin,1897-08-31,8,31,1897,27,Male,White,Frank Capra,Lady for a Day,Nomination
+5,1933,Best actor,Fredric March,Dr. Jekyll and Mr. Hyde,35,Wisconsin,1897-08-31,8,31,1897,28,Male,White,George Cukor,Little Women,Nomination
+5,1933,Best actor,Wallace Beery,The Champ,47,Missouri,1885-04-01,4,1,1885,26,Male,White,Frank Lloyd,Cavalcade,Winner
+5,1933,Best actor,Wallace Beery,The Champ,47,Missouri,1885-04-01,4,1,1885,27,Male,White,Frank Capra,Lady for a Day,Nomination
+5,1933,Best actor,Wallace Beery,The Champ,47,Missouri,1885-04-01,4,1,1885,28,Male,White,George Cukor,Little Women,Nomination
+6,1934,Best actress,Katharine Hepburn,Morning Glory,26,Connecticut,1907-05-12,5,12,1907,29,Male,White,Frank Capra,It Happened One Night,Winner
+6,1934,Best actress,Katharine Hepburn,Morning Glory,26,Connecticut,1907-05-12,5,12,1907,30,Male,White,Victor Schertzinger,One Night of Love,Nomination
+6,1934,Best actress,Katharine Hepburn,Morning Glory,26,Connecticut,1907-05-12,5,12,1907,31,Male,White,W. S. Van Dyke,The Thin Man,Nomination
+6,1934,Best actor,Charles Laughton,The Private Life of Henry VIII,34,England,1899-07-01,7,1,1899,29,Male,White,Frank Capra,It Happened One Night,Winner
+6,1934,Best actor,Charles Laughton,The Private Life of Henry VIII,34,England,1899-07-01,7,1,1899,30,Male,White,Victor Schertzinger,One Night of Love,Nomination
+6,1934,Best actor,Charles Laughton,The Private Life of Henry VIII,34,England,1899-07-01,7,1,1899,31,Male,White,W. S. Van Dyke,The Thin Man,Nomination
+7,1935,Best actress,Claudette Colbert,It Happened One Night,31,France,1903-09-13,9,13,1903,32,Male,White,John Ford,The Informer,Winner
+7,1935,Best actress,Claudette Colbert,It Happened One Night,31,France,1903-09-13,9,13,1903,33,Male,White,Henry Hathaway,The Lives of a Bengal Lancer,Nomination
+7,1935,Best actress,Claudette Colbert,It Happened One Night,31,France,1903-09-13,9,13,1903,34,Male,White,Frank Lloyd,Mutiny on the Bounty,Nomination
+7,1935,Best actor,Clark Gable,It Happened One Night,33,Ohio,1901-02-01,2,1,1901,32,Male,White,John Ford,The Informer,Winner
+7,1935,Best actor,Clark Gable,It Happened One Night,33,Ohio,1901-02-01,2,1,1901,33,Male,White,Henry Hathaway,The Lives of a Bengal Lancer,Nomination
+7,1935,Best actor,Clark Gable,It Happened One Night,33,Ohio,1901-02-01,2,1,1901,34,Male,White,Frank Lloyd,Mutiny on the Bounty,Nomination
+8,1936,Best actress,Bette Davis,Dangerous,27,Massachusetts,1908-04-05,4,5,1908,35,Male,White,Frank Capra,Mr. Deeds Goes to Town,Winner
+8,1936,Best actress,Bette Davis,Dangerous,27,Massachusetts,1908-04-05,4,5,1908,36,Male,White,Gregory La Cava,My Man Godfrey,Nomination
+8,1936,Best actress,Bette Davis,Dangerous,27,Massachusetts,1908-04-05,4,5,1908,37,Male,White,Robert Z. Leonard,The Great Ziegfeld,Nomination
+8,1936,Best actress,Bette Davis,Dangerous,27,Massachusetts,1908-04-05,4,5,1908,38,Male,White,W. S. Van Dyke,San Francisco,Nomination
+8,1936,Best actress,Bette Davis,Dangerous,27,Massachusetts,1908-04-05,4,5,1908,39,Male,White,William Wyler,Dodsworth,Nomination
+8,1936,Best actor,Victor McLaglen,The Informer,52,England,1883-12-11,12,11,1883,35,Male,White,Frank Capra,Mr. Deeds Goes to Town,Winner
+8,1936,Best actor,Victor McLaglen,The Informer,52,England,1883-12-11,12,11,1883,36,Male,White,Gregory La Cava,My Man Godfrey,Nomination
+8,1936,Best actor,Victor McLaglen,The Informer,52,England,1883-12-11,12,11,1883,37,Male,White,Robert Z. Leonard,The Great Ziegfeld,Nomination
+8,1936,Best actor,Victor McLaglen,The Informer,52,England,1883-12-11,12,11,1883,38,Male,White,W. S. Van Dyke,San Francisco,Nomination
+8,1936,Best actor,Victor McLaglen,The Informer,52,England,1883-12-11,12,11,1883,39,Male,White,William Wyler,Dodsworth,Nomination
+9,1937,Best actress,Luise Rainer,The Great Zeigfeld,26,Germany,1910-01-12,1,12,1910,40,Male,White,Leo McCarey,The Awful Truth,Winner
+9,1937,Best actress,Luise Rainer,The Great Zeigfeld,26,Germany,1910-01-12,1,12,1910,41,Male,White,William Dieterle,The Life of Emile Zola,Nomination
+9,1937,Best actress,Luise Rainer,The Great Zeigfeld,26,Germany,1910-01-12,1,12,1910,42,Male,White,Sidney Franklin,The Good Earth,Nomination
+9,1937,Best actress,Luise Rainer,The Great Zeigfeld,26,Germany,1910-01-12,1,12,1910,43,Male,White,Gregory La Cava,Stage Door,Nomination
+9,1937,Best actress,Luise Rainer,The Great Zeigfeld,26,Germany,1910-01-12,1,12,1910,44,Male,White,William A. Wellman,A Star Is Born,Nomination
+9,1937,Best actor,Paul Muni,The Story of Louis Pasteur,41,Poland,1895-09-22,9,22,1895,40,Male,White,Leo McCarey,The Awful Truth,Winner
+9,1937,Best actor,Paul Muni,The Story of Louis Pasteur,41,Poland,1895-09-22,9,22,1895,41,Male,White,William Dieterle,The Life of Emile Zola,Nomination
+9,1937,Best actor,Paul Muni,The Story of Louis Pasteur,41,Poland,1895-09-22,9,22,1895,42,Male,White,Sidney Franklin,The Good Earth,Nomination
+9,1937,Best actor,Paul Muni,The Story of Louis Pasteur,41,Poland,1895-09-22,9,22,1895,43,Male,White,Gregory La Cava,Stage Door,Nomination
+9,1937,Best actor,Paul Muni,The Story of Louis Pasteur,41,Poland,1895-09-22,9,22,1895,44,Male,White,William A. Wellman,A Star Is Born,Nomination
+10,1938,Best actress,Luise Rainer,The Good Earth,27,Germany,1910-01-12,1,12,1910,45,Male,White,Frank Capra,You Can't Take It with You,Winner
+10,1938,Best actress,Luise Rainer,The Good Earth,27,Germany,1910-01-12,1,12,1910,46,Male,White,Michael Curtiz,Angels with Dirty Faces,Nomination
+10,1938,Best actress,Luise Rainer,The Good Earth,27,Germany,1910-01-12,1,12,1910,47,Male,White,Michael Curtiz,Four Daughters,Nomination
+10,1938,Best actress,Luise Rainer,The Good Earth,27,Germany,1910-01-12,1,12,1910,48,Male,White,Norman Taurog,Boys Town,Nomination
+10,1938,Best actress,Luise Rainer,The Good Earth,27,Germany,1910-01-12,1,12,1910,49,Male,White,King Vidor,The Citadel,Nomination
+10,1938,Best actor,Spencer Tracy,Captains Courageous,37,Wisconsin,1900-04-05,4,5,1900,45,Male,White,Frank Capra,You Can't Take It with You,Winner
+10,1938,Best actor,Spencer Tracy,Captains Courageous,37,Wisconsin,1900-04-05,4,5,1900,46,Male,White,Michael Curtiz,Angels with Dirty Faces,Nomination
+10,1938,Best actor,Spencer Tracy,Captains Courageous,37,Wisconsin,1900-04-05,4,5,1900,47,Male,White,Michael Curtiz,Four Daughters,Nomination
+10,1938,Best actor,Spencer Tracy,Captains Courageous,37,Wisconsin,1900-04-05,4,5,1900,48,Male,White,Norman Taurog,Boys Town,Nomination
+10,1938,Best actor,Spencer Tracy,Captains Courageous,37,Wisconsin,1900-04-05,4,5,1900,49,Male,White,King Vidor,The Citadel,Nomination
+11,1939,Best actress,Bette Davis,Jezebel,30,Massachusetts,1908-04-05,4,5,1908,50,Male,White,Victor Fleming,Gone with the Wind,Winner
+11,1939,Best actress,Bette Davis,Jezebel,30,Massachusetts,1908-04-05,4,5,1908,51,Male,White,Frank Capra,Mr. Smith Goes to Washington,Nomination
+11,1939,Best actress,Bette Davis,Jezebel,30,Massachusetts,1908-04-05,4,5,1908,52,Male,White,John Ford,Stagecoach,Nomination
+11,1939,Best actress,Bette Davis,Jezebel,30,Massachusetts,1908-04-05,4,5,1908,53,Male,White,Sam Wood,"Goodbye, Mr. Chips",Nomination
+11,1939,Best actress,Bette Davis,Jezebel,30,Massachusetts,1908-04-05,4,5,1908,54,Male,White,William Wyler,Wuthering Heights,Nomination
+11,1939,Best actor,Spencer Tracy,Boys Town,38,Wisconsin,1900-04-05,4,5,1900,50,Male,White,Victor Fleming,Gone with the Wind,Winner
+11,1939,Best actor,Spencer Tracy,Boys Town,38,Wisconsin,1900-04-05,4,5,1900,51,Male,White,Frank Capra,Mr. Smith Goes to Washington,Nomination
+11,1939,Best actor,Spencer Tracy,Boys Town,38,Wisconsin,1900-04-05,4,5,1900,52,Male,White,John Ford,Stagecoach,Nomination
+11,1939,Best actor,Spencer Tracy,Boys Town,38,Wisconsin,1900-04-05,4,5,1900,53,Male,White,Sam Wood,"Goodbye, Mr. Chips",Nomination
+11,1939,Best actor,Spencer Tracy,Boys Town,38,Wisconsin,1900-04-05,4,5,1900,54,Male,White,William Wyler,Wuthering Heights,Nomination
+12,1940,Best actress,Vivien Leigh,Gone With the Wind,26,India,1913-11-05,11,5,1913,55,Male,White,John Ford,The Grapes of Wrath,Winner
+12,1940,Best actress,Vivien Leigh,Gone With the Wind,26,India,1913-11-05,11,5,1913,56,Male,White,George Cukor,The Philadelphia Story,Nomination
+12,1940,Best actress,Vivien Leigh,Gone With the Wind,26,India,1913-11-05,11,5,1913,57,Male,White,Alfred Hitchcock,Rebecca,Nomination
+12,1940,Best actress,Vivien Leigh,Gone With the Wind,26,India,1913-11-05,11,5,1913,58,Male,White,Sam Wood,Kitty Foyle,Nomination
+12,1940,Best actress,Vivien Leigh,Gone With the Wind,26,India,1913-11-05,11,5,1913,59,Male,White,William Wyler,The Letter,Nomination
+12,1940,Best actor,Robert Donat,"Goodbye, Mr. Chips",34,England,1905-03-18,3,18,1905,55,Male,White,John Ford,The Grapes of Wrath,Winner
+12,1940,Best actor,Robert Donat,"Goodbye, Mr. Chips",34,England,1905-03-18,3,18,1905,56,Male,White,George Cukor,The Philadelphia Story,Nomination
+12,1940,Best actor,Robert Donat,"Goodbye, Mr. Chips",34,England,1905-03-18,3,18,1905,57,Male,White,Alfred Hitchcock,Rebecca,Nomination
+12,1940,Best actor,Robert Donat,"Goodbye, Mr. Chips",34,England,1905-03-18,3,18,1905,58,Male,White,Sam Wood,Kitty Foyle,Nomination
+12,1940,Best actor,Robert Donat,"Goodbye, Mr. Chips",34,England,1905-03-18,3,18,1905,59,Male,White,William Wyler,The Letter,Nomination
+13,1941,Best actress,Ginger Rogers,Kitty Foyle,29,Missouri,1911-07-16,7,16,1911,60,Male,White,John Ford,How Green Was My Valley,Winner
+13,1941,Best actress,Ginger Rogers,Kitty Foyle,29,Missouri,1911-07-16,7,16,1911,61,Male,White,Alexander Hall,Here Comes Mr. Jordan,Nomination
+13,1941,Best actress,Ginger Rogers,Kitty Foyle,29,Missouri,1911-07-16,7,16,1911,62,Male,White,Howard Hawks,Sergeant York,Nomination
+13,1941,Best actress,Ginger Rogers,Kitty Foyle,29,Missouri,1911-07-16,7,16,1911,63,Male,White,Orson Welles,Citizen Kane,Nomination
+13,1941,Best actress,Ginger Rogers,Kitty Foyle,29,Missouri,1911-07-16,7,16,1911,64,Male,White,William Wyler,The Little Foxes,Nomination
+13,1941,Best actor,James Stewart,The Philadelphia Story,32,Pennsylvania,1908-05-20,5,20,1908,60,Male,White,John Ford,How Green Was My Valley,Winner
+13,1941,Best actor,James Stewart,The Philadelphia Story,32,Pennsylvania,1908-05-20,5,20,1908,61,Male,White,Alexander Hall,Here Comes Mr. Jordan,Nomination
+13,1941,Best actor,James Stewart,The Philadelphia Story,32,Pennsylvania,1908-05-20,5,20,1908,62,Male,White,Howard Hawks,Sergeant York,Nomination
+13,1941,Best actor,James Stewart,The Philadelphia Story,32,Pennsylvania,1908-05-20,5,20,1908,63,Male,White,Orson Welles,Citizen Kane,Nomination
+13,1941,Best actor,James Stewart,The Philadelphia Story,32,Pennsylvania,1908-05-20,5,20,1908,64,Male,White,William Wyler,The Little Foxes,Nomination
+14,1942,Best actress,Joan Fontaine,Suspicion,24,Japan,1917-10-22,10,22,1917,65,Male,White,William Wyler,Mrs. Miniver,Winner
+14,1942,Best actress,Joan Fontaine,Suspicion,24,Japan,1917-10-22,10,22,1917,66,Male,White,Michael Curtiz,Yankee Doodle Dandy,Nomination
+14,1942,Best actress,Joan Fontaine,Suspicion,24,Japan,1917-10-22,10,22,1917,67,Male,White,John Farrow,Wake Island,Nomination
+14,1942,Best actress,Joan Fontaine,Suspicion,24,Japan,1917-10-22,10,22,1917,68,Male,White,Mervyn LeRoy,Random Harvest,Nomination
+14,1942,Best actress,Joan Fontaine,Suspicion,24,Japan,1917-10-22,10,22,1917,69,Male,White,Sam Wood,Kings Row,Nomination
+14,1942,Best actor,Gary Cooper,Sergeant York,40,Montana,1901-05-07,5,7,1901,65,Male,White,William Wyler,Mrs. Miniver,Winner
+14,1942,Best actor,Gary Cooper,Sergeant York,40,Montana,1901-05-07,5,7,1901,66,Male,White,Michael Curtiz,Yankee Doodle Dandy,Nomination
+14,1942,Best actor,Gary Cooper,Sergeant York,40,Montana,1901-05-07,5,7,1901,67,Male,White,John Farrow,Wake Island,Nomination
+14,1942,Best actor,Gary Cooper,Sergeant York,40,Montana,1901-05-07,5,7,1901,68,Male,White,Mervyn LeRoy,Random Harvest,Nomination
+14,1942,Best actor,Gary Cooper,Sergeant York,40,Montana,1901-05-07,5,7,1901,69,Male,White,Sam Wood,Kings Row,Nomination
+15,1943,Best actress,Greer Garson,Mrs. Miniver,38,England,1904-09-29,9,29,1904,70,Male,White,Michael Curtiz,Casablanca,Winner
+15,1943,Best actress,Greer Garson,Mrs. Miniver,38,England,1904-09-29,9,29,1904,71,Male,White,Clarence Brown,The Human Comedy,Nomination
+15,1943,Best actress,Greer Garson,Mrs. Miniver,38,England,1904-09-29,9,29,1904,72,Male,White,Henry King,The Song of Bernadette,Nomination
+15,1943,Best actress,Greer Garson,Mrs. Miniver,38,England,1904-09-29,9,29,1904,73,Male,White,Ernst Lubitsch,Heaven Can Wait,Nomination
+15,1943,Best actress,Greer Garson,Mrs. Miniver,38,England,1904-09-29,9,29,1904,74,Male,White,George Stevens,The More the Merrier,Nomination
+15,1943,Best actor,James Cagney,Yankee Doodle Dandy,43,New York,1899-07-17,7,17,1899,70,Male,White,Michael Curtiz,Casablanca,Winner
+15,1943,Best actor,James Cagney,Yankee Doodle Dandy,43,New York,1899-07-17,7,17,1899,71,Male,White,Clarence Brown,The Human Comedy,Nomination
+15,1943,Best actor,James Cagney,Yankee Doodle Dandy,43,New York,1899-07-17,7,17,1899,72,Male,White,Henry King,The Song of Bernadette,Nomination
+15,1943,Best actor,James Cagney,Yankee Doodle Dandy,43,New York,1899-07-17,7,17,1899,73,Male,White,Ernst Lubitsch,Heaven Can Wait,Nomination
+15,1943,Best actor,James Cagney,Yankee Doodle Dandy,43,New York,1899-07-17,7,17,1899,74,Male,White,George Stevens,The More the Merrier,Nomination
+16,1944,Best actress,Jennifer Jones,The Song of Bernadette,24,Oklahoma,1919-03-02,3,2,1919,75,Male,White,Leo McCarey,Going My Way,Winner
+16,1944,Best actress,Jennifer Jones,The Song of Bernadette,24,Oklahoma,1919-03-02,3,2,1919,76,Male,White,Alfred Hitchcock,Lifeboat,Nomination
+16,1944,Best actress,Jennifer Jones,The Song of Bernadette,24,Oklahoma,1919-03-02,3,2,1919,77,Male,White,Henry King,Wilson,Nomination
+16,1944,Best actress,Jennifer Jones,The Song of Bernadette,24,Oklahoma,1919-03-02,3,2,1919,78,Male,White,Otto Preminger,Laura,Nomination
+16,1944,Best actress,Jennifer Jones,The Song of Bernadette,24,Oklahoma,1919-03-02,3,2,1919,79,Male,White,Billy Wilder,Double Indemnity,Nomination
+16,1944,Best actor,Paul Lukas,Watch on the Rhine,48,Hungary,1895-05-26,5,26,1895,75,Male,White,Leo McCarey,Going My Way,Winner
+16,1944,Best actor,Paul Lukas,Watch on the Rhine,48,Hungary,1895-05-26,5,26,1895,76,Male,White,Alfred Hitchcock,Lifeboat,Nomination
+16,1944,Best actor,Paul Lukas,Watch on the Rhine,48,Hungary,1895-05-26,5,26,1895,77,Male,White,Henry King,Wilson,Nomination
+16,1944,Best actor,Paul Lukas,Watch on the Rhine,48,Hungary,1895-05-26,5,26,1895,78,Male,White,Otto Preminger,Laura,Nomination
+16,1944,Best actor,Paul Lukas,Watch on the Rhine,48,Hungary,1895-05-26,5,26,1895,79,Male,White,Billy Wilder,Double Indemnity,Nomination
+17,1945,Best actress,Ingrid Bergman,Gaslight,29,Sweden,1915-08-29,8,29,1915,80,Male,White,Billy Wilder,The Lost Weekend,Winner
+17,1945,Best actress,Ingrid Bergman,Gaslight,29,Sweden,1915-08-29,8,29,1915,81,Male,White,Clarence Brown,National Velvet,Nomination
+17,1945,Best actress,Ingrid Bergman,Gaslight,29,Sweden,1915-08-29,8,29,1915,82,Male,White,Alfred Hitchcock,Spellbound,Nomination
+17,1945,Best actress,Ingrid Bergman,Gaslight,29,Sweden,1915-08-29,8,29,1915,83,Male,White,Leo McCarey,The Bells of St. Mary's,Nomination
+17,1945,Best actress,Ingrid Bergman,Gaslight,29,Sweden,1915-08-29,8,29,1915,84,Male,White,Jean Renoir,The Southerner,Nomination
+17,1945,Best actor,Bing Crosby,Going My Way,41,Washington,1903-05-03,5,3,1903,80,Male,White,Billy Wilder,The Lost Weekend,Winner
+17,1945,Best actor,Bing Crosby,Going My Way,41,Washington,1903-05-03,5,3,1903,81,Male,White,Clarence Brown,National Velvet,Nomination
+17,1945,Best actor,Bing Crosby,Going My Way,41,Washington,1903-05-03,5,3,1903,82,Male,White,Alfred Hitchcock,Spellbound,Nomination
+17,1945,Best actor,Bing Crosby,Going My Way,41,Washington,1903-05-03,5,3,1903,83,Male,White,Leo McCarey,The Bells of St. Mary's,Nomination
+17,1945,Best actor,Bing Crosby,Going My Way,41,Washington,1903-05-03,5,3,1903,84,Male,White,Jean Renoir,The Southerner,Nomination
+18,1946,Best actress,Joan Crawford,Mildred Pierce,33,Texas,1912-03-23,3,23,1912,85,Male,White,William Wyler,The Best Years of Our Lives,Winner
+18,1946,Best actress,Joan Crawford,Mildred Pierce,33,Texas,1912-03-23,3,23,1912,86,Male,White,Clarence Brown,The Yearling,Nomination
+18,1946,Best actress,Joan Crawford,Mildred Pierce,33,Texas,1912-03-23,3,23,1912,87,Male,White,Frank Capra,It's a Wonderful Life,Nomination
+18,1946,Best actress,Joan Crawford,Mildred Pierce,33,Texas,1912-03-23,3,23,1912,88,Male,White,David Lean,Brief Encounter,Nomination
+18,1946,Best actress,Joan Crawford,Mildred Pierce,33,Texas,1912-03-23,3,23,1912,89,Male,White,Robert Siodmak,The Killers,Nomination
+18,1946,Best actor,Ray Milland,The Lost Weekend,40,Wales,1905-01-03,1,3,1905,85,Male,White,William Wyler,The Best Years of Our Lives,Winner
+18,1946,Best actor,Ray Milland,The Lost Weekend,40,Wales,1905-01-03,1,3,1905,86,Male,White,Clarence Brown,The Yearling,Nomination
+18,1946,Best actor,Ray Milland,The Lost Weekend,40,Wales,1905-01-03,1,3,1905,87,Male,White,Frank Capra,It's a Wonderful Life,Nomination
+18,1946,Best actor,Ray Milland,The Lost Weekend,40,Wales,1905-01-03,1,3,1905,88,Male,White,David Lean,Brief Encounter,Nomination
+18,1946,Best actor,Ray Milland,The Lost Weekend,40,Wales,1905-01-03,1,3,1905,89,Male,White,Robert Siodmak,The Killers,Nomination
+19,1947,Best actress,Olivia de Havilland,To Each His Own,30,Japan,1916-07-01,7,1,1916,90,Male,White,Elia Kazan,Gentleman's Agreement,Winner
+19,1947,Best actress,Olivia de Havilland,To Each His Own,30,Japan,1916-07-01,7,1,1916,91,Male,White,George Cukor,A Double Life,Nomination
+19,1947,Best actress,Olivia de Havilland,To Each His Own,30,Japan,1916-07-01,7,1,1916,92,Male,White,Edward Dmytryk,Crossfire,Nomination
+19,1947,Best actress,Olivia de Havilland,To Each His Own,30,Japan,1916-07-01,7,1,1916,93,Male,White,Henry Koster,The Bishop's Wife,Nomination
+19,1947,Best actress,Olivia de Havilland,To Each His Own,30,Japan,1916-07-01,7,1,1916,94,Male,White,David Lean,Great Expectations,Nomination
+19,1947,Best actor,Fredric March,The Best Years of Our Lives,49,Wisconsin,1897-08-31,8,31,1897,90,Male,White,Elia Kazan,Gentleman's Agreement,Winner
+19,1947,Best actor,Fredric March,The Best Years of Our Lives,49,Wisconsin,1897-08-31,8,31,1897,91,Male,White,George Cukor,A Double Life,Nomination
+19,1947,Best actor,Fredric March,The Best Years of Our Lives,49,Wisconsin,1897-08-31,8,31,1897,92,Male,White,Edward Dmytryk,Crossfire,Nomination
+19,1947,Best actor,Fredric March,The Best Years of Our Lives,49,Wisconsin,1897-08-31,8,31,1897,93,Male,White,Henry Koster,The Bishop's Wife,Nomination
+19,1947,Best actor,Fredric March,The Best Years of Our Lives,49,Wisconsin,1897-08-31,8,31,1897,94,Male,White,David Lean,Great Expectations,Nomination
+20,1948,Best actress,Loretta Young,The Farmer's Daughter,34,Utah,1913-01-06,1,6,1913,95,Male,White,John Huston,The Treasure of the Sierra Madre,Winner
+20,1948,Best actress,Loretta Young,The Farmer's Daughter,34,Utah,1913-01-06,1,6,1913,96,Male,White,Anatole Litvak,The Snake Pit,Nomination
+20,1948,Best actress,Loretta Young,The Farmer's Daughter,34,Utah,1913-01-06,1,6,1913,97,Male,White,Jean Negulesco,Johnny Belinda,Nomination
+20,1948,Best actress,Loretta Young,The Farmer's Daughter,34,Utah,1913-01-06,1,6,1913,98,Male,White,Laurence Olivier,Hamlet,Nomination
+20,1948,Best actress,Loretta Young,The Farmer's Daughter,34,Utah,1913-01-06,1,6,1913,99,Male,White,Fred Zinnemann,The Search,Nomination
+20,1948,Best actor,Ronald Colman,A Double Life,56,England,1891-02-09,2,9,1891,95,Male,White,John Huston,The Treasure of the Sierra Madre,Winner
+20,1948,Best actor,Ronald Colman,A Double Life,56,England,1891-02-09,2,9,1891,96,Male,White,Anatole Litvak,The Snake Pit,Nomination
+20,1948,Best actor,Ronald Colman,A Double Life,56,England,1891-02-09,2,9,1891,97,Male,White,Jean Negulesco,Johnny Belinda,Nomination
+20,1948,Best actor,Ronald Colman,A Double Life,56,England,1891-02-09,2,9,1891,98,Male,White,Laurence Olivier,Hamlet,Nomination
+20,1948,Best actor,Ronald Colman,A Double Life,56,England,1891-02-09,2,9,1891,99,Male,White,Fred Zinnemann,The Search,Nomination
+21,1949,Best actress,Jane Wyman,Johnny Belinda,34,Missouri,1914-01-04,1,4,1914,100,Male,White,Joseph L. Mankiewicz,A Letter to Three Wives,Winner
+21,1949,Best actress,Jane Wyman,Johnny Belinda,34,Missouri,1914-01-04,1,4,1914,101,Male,White,Carol Reed,The Fallen Idol,Nomination
+21,1949,Best actress,Jane Wyman,Johnny Belinda,34,Missouri,1914-01-04,1,4,1914,102,Male,White,Robert Rossen,All the King's Men,Nomination
+21,1949,Best actress,Jane Wyman,Johnny Belinda,34,Missouri,1914-01-04,1,4,1914,103,Male,White,William A. Wellman,Battleground,Nomination
+21,1949,Best actress,Jane Wyman,Johnny Belinda,34,Missouri,1914-01-04,1,4,1914,104,Male,White,William Wyler,The Heiress,Nomination
+21,1949,Best actor,Laurence Olivier,Hamlet,41,England,1907-05-22,5,22,1907,100,Male,White,Joseph L. Mankiewicz,A Letter to Three Wives,Winner
+21,1949,Best actor,Laurence Olivier,Hamlet,41,England,1907-05-22,5,22,1907,101,Male,White,Carol Reed,The Fallen Idol,Nomination
+21,1949,Best actor,Laurence Olivier,Hamlet,41,England,1907-05-22,5,22,1907,102,Male,White,Robert Rossen,All the King's Men,Nomination
+21,1949,Best actor,Laurence Olivier,Hamlet,41,England,1907-05-22,5,22,1907,103,Male,White,William A. Wellman,Battleground,Nomination
+21,1949,Best actor,Laurence Olivier,Hamlet,41,England,1907-05-22,5,22,1907,104,Male,White,William Wyler,The Heiress,Nomination
+22,1950,Best actress,Olivia de Havilland,The Heiress,33,Japan,1916-07-01,7,1,1916,105,Male,White,Joseph L. Mankiewicz,All About Eve,Winner
+22,1950,Best actress,Olivia de Havilland,The Heiress,33,Japan,1916-07-01,7,1,1916,106,Male,White,George Cukor,Born Yesterday,Nomination
+22,1950,Best actress,Olivia de Havilland,The Heiress,33,Japan,1916-07-01,7,1,1916,107,Male,White,John Huston,The Asphalt Jungle,Nomination
+22,1950,Best actress,Olivia de Havilland,The Heiress,33,Japan,1916-07-01,7,1,1916,108,Male,White,Carol Reed,The Third Man,Nomination
+22,1950,Best actress,Olivia de Havilland,The Heiress,33,Japan,1916-07-01,7,1,1916,109,Male,White,Billy Wilder,Sunset Boulevard,Nomination
+22,1950,Best actor,Broderick Crawford,All the King's Men,38,Pennsylvania,1911-12-09,12,9,1911,105,Male,White,Joseph L. Mankiewicz,All About Eve,Winner
+22,1950,Best actor,Broderick Crawford,All the King's Men,38,Pennsylvania,1911-12-09,12,9,1911,106,Male,White,George Cukor,Born Yesterday,Nomination
+22,1950,Best actor,Broderick Crawford,All the King's Men,38,Pennsylvania,1911-12-09,12,9,1911,107,Male,White,John Huston,The Asphalt Jungle,Nomination
+22,1950,Best actor,Broderick Crawford,All the King's Men,38,Pennsylvania,1911-12-09,12,9,1911,108,Male,White,Carol Reed,The Third Man,Nomination
+22,1950,Best actor,Broderick Crawford,All the King's Men,38,Pennsylvania,1911-12-09,12,9,1911,109,Male,White,Billy Wilder,Sunset Boulevard,Nomination
+23,1951,Best actress,Judy Holliday,Born Yesterday,29,New York,1921-06-21,6,21,1921,110,Male,White,George Stevens,A Place in the Sun,Winner
+23,1951,Best actress,Judy Holliday,Born Yesterday,29,New York,1921-06-21,6,21,1921,111,Male,White,John Huston,The African Queen,Nomination
+23,1951,Best actress,Judy Holliday,Born Yesterday,29,New York,1921-06-21,6,21,1921,112,Male,White,Elia Kazan,A Streetcar Named Desire,Nomination
+23,1951,Best actress,Judy Holliday,Born Yesterday,29,New York,1921-06-21,6,21,1921,113,Male,White,Vincente Minnelli,An American in Paris,Nomination
+23,1951,Best actress,Judy Holliday,Born Yesterday,29,New York,1921-06-21,6,21,1921,114,Male,White,William Wyler,Detective Story,Nomination
+23,1951,Best actor,Jose Ferrer,Cyrano de Bergerac,41,Puerto Rico,1909-01-08,1,8,1909,110,Male,White,George Stevens,A Place in the Sun,Winner
+23,1951,Best actor,Jose Ferrer,Cyrano de Bergerac,41,Puerto Rico,1909-01-08,1,8,1909,111,Male,White,John Huston,The African Queen,Nomination
+23,1951,Best actor,Jose Ferrer,Cyrano de Bergerac,41,Puerto Rico,1909-01-08,1,8,1909,112,Male,White,Elia Kazan,A Streetcar Named Desire,Nomination
+23,1951,Best actor,Jose Ferrer,Cyrano de Bergerac,41,Puerto Rico,1909-01-08,1,8,1909,113,Male,White,Vincente Minnelli,An American in Paris,Nomination
+23,1951,Best actor,Jose Ferrer,Cyrano de Bergerac,41,Puerto Rico,1909-01-08,1,8,1909,114,Male,White,William Wyler,Detective Story,Nomination
+24,1952,Best actress,Vivien Leigh,A Streetcar Named Desire,38,India,1913-11-05,11,5,1913,115,Male,White,John Ford,The Quiet Man,Winner
+24,1952,Best actress,Vivien Leigh,A Streetcar Named Desire,38,India,1913-11-05,11,5,1913,116,Male,White,Cecil B. DeMille,The Greatest Show on Earth,Nomination
+24,1952,Best actress,Vivien Leigh,A Streetcar Named Desire,38,India,1913-11-05,11,5,1913,117,Male,White,John Huston,Moulin Rouge,Nomination
+24,1952,Best actress,Vivien Leigh,A Streetcar Named Desire,38,India,1913-11-05,11,5,1913,118,Male,White,Joseph L. Mankiewicz,5 Fingers,Nomination
+24,1952,Best actress,Vivien Leigh,A Streetcar Named Desire,38,India,1913-11-05,11,5,1913,119,Male,White,Fred Zinnemann,High Noon,Nomination
+24,1952,Best actor,Humphrey Bogart,The African Queen,52,New York,1899-12-25,12,25,1899,115,Male,White,John Ford,The Quiet Man,Winner
+24,1952,Best actor,Humphrey Bogart,The African Queen,52,New York,1899-12-25,12,25,1899,116,Male,White,Cecil B. DeMille,The Greatest Show on Earth,Nomination
+24,1952,Best actor,Humphrey Bogart,The African Queen,52,New York,1899-12-25,12,25,1899,117,Male,White,John Huston,Moulin Rouge,Nomination
+24,1952,Best actor,Humphrey Bogart,The African Queen,52,New York,1899-12-25,12,25,1899,118,Male,White,Joseph L. Mankiewicz,5 Fingers,Nomination
+24,1952,Best actor,Humphrey Bogart,The African Queen,52,New York,1899-12-25,12,25,1899,119,Male,White,Fred Zinnemann,High Noon,Nomination
+25,1953,Best actress,Shirley Booth,"Come Back, Little Sheba",54,New York,1898-08-30,8,30,1898,120,Male,White,Fred Zinnemann,From Here to Eternity,Winner
+25,1953,Best actress,Shirley Booth,"Come Back, Little Sheba",54,New York,1898-08-30,8,30,1898,121,Male,White,George Stevens,Shane,Nomination
+25,1953,Best actress,Shirley Booth,"Come Back, Little Sheba",54,New York,1898-08-30,8,30,1898,122,Male,White,Charles Walters,Lili,Nomination
+25,1953,Best actress,Shirley Booth,"Come Back, Little Sheba",54,New York,1898-08-30,8,30,1898,123,Male,White,Billy Wilder,Stalag 17,Nomination
+25,1953,Best actress,Shirley Booth,"Come Back, Little Sheba",54,New York,1898-08-30,8,30,1898,124,Male,White,William Wyler,Roman Holiday,Nomination
+25,1953,Best actor,Gary Cooper,High Noon,51,Montana,1901-05-07,5,7,1901,120,Male,White,Fred Zinnemann,From Here to Eternity,Winner
+25,1953,Best actor,Gary Cooper,High Noon,51,Montana,1901-05-07,5,7,1901,121,Male,White,George Stevens,Shane,Nomination
+25,1953,Best actor,Gary Cooper,High Noon,51,Montana,1901-05-07,5,7,1901,122,Male,White,Charles Walters,Lili,Nomination
+25,1953,Best actor,Gary Cooper,High Noon,51,Montana,1901-05-07,5,7,1901,123,Male,White,Billy Wilder,Stalag 17,Nomination
+25,1953,Best actor,Gary Cooper,High Noon,51,Montana,1901-05-07,5,7,1901,124,Male,White,William Wyler,Roman Holiday,Nomination
+26,1954,Best actress,Audrey Hepburn,Roman Holiday,24,Belgium,1929-05-04,5,4,1929,125,Male,White,Elia Kazan,On the Waterfront,Winner
+26,1954,Best actress,Audrey Hepburn,Roman Holiday,24,Belgium,1929-05-04,5,4,1929,126,Male,White,Alfred Hitchcock,Rear Window,Nomination
+26,1954,Best actress,Audrey Hepburn,Roman Holiday,24,Belgium,1929-05-04,5,4,1929,127,Male,White,George Seaton,The Country Girl,Nomination
+26,1954,Best actress,Audrey Hepburn,Roman Holiday,24,Belgium,1929-05-04,5,4,1929,128,Male,White,William A. Wellman,The High and the Mighty,Nomination
+26,1954,Best actress,Audrey Hepburn,Roman Holiday,24,Belgium,1929-05-04,5,4,1929,129,Male,White,Billy Wilder,Sabrina,Nomination
+26,1954,Best actor,William Holden,Stalag 17,35,Illinois,1918-04-17,4,17,1918,125,Male,White,Elia Kazan,On the Waterfront,Winner
+26,1954,Best actor,William Holden,Stalag 17,35,Illinois,1918-04-17,4,17,1918,126,Male,White,Alfred Hitchcock,Rear Window,Nomination
+26,1954,Best actor,William Holden,Stalag 17,35,Illinois,1918-04-17,4,17,1918,127,Male,White,George Seaton,The Country Girl,Nomination
+26,1954,Best actor,William Holden,Stalag 17,35,Illinois,1918-04-17,4,17,1918,128,Male,White,William A. Wellman,The High and the Mighty,Nomination
+26,1954,Best actor,William Holden,Stalag 17,35,Illinois,1918-04-17,4,17,1918,129,Male,White,Billy Wilder,Sabrina,Nomination
+27,1955,Best actress,Grace Kelly,The Country Girl,25,Philly,1929-11-12,11,12,1929,130,Male,White,Delbert Mann,Marty,Winner
+27,1955,Best actress,Grace Kelly,The Country Girl,25,Philly,1929-11-12,11,12,1929,131,Male,White,Elia Kazan,East of Eden,Nomination
+27,1955,Best actress,Grace Kelly,The Country Girl,25,Philly,1929-11-12,11,12,1929,132,Male,White,David Lean,Summertime,Nomination
+27,1955,Best actress,Grace Kelly,The Country Girl,25,Philly,1929-11-12,11,12,1929,133,Male,White,Joshua Logan,Picnic,Nomination
+27,1955,Best actress,Grace Kelly,The Country Girl,25,Philly,1929-11-12,11,12,1929,134,Male,White,John Sturges,Bad Day at Black Rock,Nomination
+27,1955,Best actor,Marlon Brando,On The Waterfront,30,Nebraska,1924-04-03,4,3,1924,130,Male,White,Delbert Mann,Marty,Winner
+27,1955,Best actor,Marlon Brando,On The Waterfront,30,Nebraska,1924-04-03,4,3,1924,131,Male,White,Elia Kazan,East of Eden,Nomination
+27,1955,Best actor,Marlon Brando,On The Waterfront,30,Nebraska,1924-04-03,4,3,1924,132,Male,White,David Lean,Summertime,Nomination
+27,1955,Best actor,Marlon Brando,On The Waterfront,30,Nebraska,1924-04-03,4,3,1924,133,Male,White,Joshua Logan,Picnic,Nomination
+27,1955,Best actor,Marlon Brando,On The Waterfront,30,Nebraska,1924-04-03,4,3,1924,134,Male,White,John Sturges,Bad Day at Black Rock,Nomination
+28,1956,Best actress,Anna Magnani,The Rose Tattoo,47,Italy,1908-03-07,3,7,1908,135,Male,White,George Stevens,Giant,Winner
+28,1956,Best actress,Anna Magnani,The Rose Tattoo,47,Italy,1908-03-07,3,7,1908,136,Male,White,Michael Anderson,Around the World in 80 Days,Nomination
+28,1956,Best actress,Anna Magnani,The Rose Tattoo,47,Italy,1908-03-07,3,7,1908,137,Male,White,Walter Lang,The King and I,Nomination
+28,1956,Best actress,Anna Magnani,The Rose Tattoo,47,Italy,1908-03-07,3,7,1908,138,Male,White,King Vidor,War and Peace,Nomination
+28,1956,Best actress,Anna Magnani,The Rose Tattoo,47,Italy,1908-03-07,3,7,1908,139,Male,White,William Wyler,Friendly Persuasion,Nomination
+28,1956,Best actor,Ernest Borgnine,Marty,38,Connecticut,1917-01-24,1,24,1917,135,Male,White,George Stevens,Giant,Winner
+28,1956,Best actor,Ernest Borgnine,Marty,38,Connecticut,1917-01-24,1,24,1917,136,Male,White,Michael Anderson,Around the World in 80 Days,Nomination
+28,1956,Best actor,Ernest Borgnine,Marty,38,Connecticut,1917-01-24,1,24,1917,137,Male,White,Walter Lang,The King and I,Nomination
+28,1956,Best actor,Ernest Borgnine,Marty,38,Connecticut,1917-01-24,1,24,1917,138,Male,White,King Vidor,War and Peace,Nomination
+28,1956,Best actor,Ernest Borgnine,Marty,38,Connecticut,1917-01-24,1,24,1917,139,Male,White,William Wyler,Friendly Persuasion,Nomination
+29,1957,Best actress,Ingrid Bergman,Anastasia,41,Sweden,1915-08-29,8,29,1915,140,Male,White,David Lean,The Bridge on the River Kwai,Winner
+29,1957,Best actress,Ingrid Bergman,Anastasia,41,Sweden,1915-08-29,8,29,1915,141,Male,White,Joshua Logan,Sayonara,Nomination
+29,1957,Best actress,Ingrid Bergman,Anastasia,41,Sweden,1915-08-29,8,29,1915,142,Male,White,Sidney Lumet,12 Angry Men,Nomination
+29,1957,Best actress,Ingrid Bergman,Anastasia,41,Sweden,1915-08-29,8,29,1915,143,Male,White,Mark Robson,Peyton Place,Nomination
+29,1957,Best actress,Ingrid Bergman,Anastasia,41,Sweden,1915-08-29,8,29,1915,144,Male,White,Billy Wilder,Witness for the Prosecution,Nomination
+29,1957,Best actor,Yul Brynner,The King and I,41,Russia,1915-07-07,7,7,1915,140,Male,White,David Lean,The Bridge on the River Kwai,Winner
+29,1957,Best actor,Yul Brynner,The King and I,41,Russia,1915-07-07,7,7,1915,141,Male,White,Joshua Logan,Sayonara,Nomination
+29,1957,Best actor,Yul Brynner,The King and I,41,Russia,1915-07-07,7,7,1915,142,Male,White,Sidney Lumet,12 Angry Men,Nomination
+29,1957,Best actor,Yul Brynner,The King and I,41,Russia,1915-07-07,7,7,1915,143,Male,White,Mark Robson,Peyton Place,Nomination
+29,1957,Best actor,Yul Brynner,The King and I,41,Russia,1915-07-07,7,7,1915,144,Male,White,Billy Wilder,Witness for the Prosecution,Nomination
+30,1958,Best actress,Joanne Woodward,The Three Faces of Eve,27,Georgia,1930-02-27,2,27,1930,145,Male,White,Vincente Minnelli,Gigi,Winner
+30,1958,Best actress,Joanne Woodward,The Three Faces of Eve,27,Georgia,1930-02-27,2,27,1930,146,Male,White,Richard Brooks,Cat on a Hot Tin Roof,Nomination
+30,1958,Best actress,Joanne Woodward,The Three Faces of Eve,27,Georgia,1930-02-27,2,27,1930,147,Male,White,Stanley Kramer,The Defiant Ones,Nomination
+30,1958,Best actress,Joanne Woodward,The Three Faces of Eve,27,Georgia,1930-02-27,2,27,1930,148,Male,White,Mark Robson,The Inn of the Sixth Happiness,Nomination
+30,1958,Best actress,Joanne Woodward,The Three Faces of Eve,27,Georgia,1930-02-27,2,27,1930,149,Male,White,Robert Wise,I Want to Live!,Nomination
+30,1958,Best actor,Alec Guinness,The Bridge On The River Kwai,43,England,1914-04-02,4,2,1914,145,Male,White,Vincente Minnelli,Gigi,Winner
+30,1958,Best actor,Alec Guinness,The Bridge On The River Kwai,43,England,1914-04-02,4,2,1914,146,Male,White,Richard Brooks,Cat on a Hot Tin Roof,Nomination
+30,1958,Best actor,Alec Guinness,The Bridge On The River Kwai,43,England,1914-04-02,4,2,1914,147,Male,White,Stanley Kramer,The Defiant Ones,Nomination
+30,1958,Best actor,Alec Guinness,The Bridge On The River Kwai,43,England,1914-04-02,4,2,1914,148,Male,White,Mark Robson,The Inn of the Sixth Happiness,Nomination
+30,1958,Best actor,Alec Guinness,The Bridge On The River Kwai,43,England,1914-04-02,4,2,1914,149,Male,White,Robert Wise,I Want to Live!,Nomination
+31,1959,Best actress,Susan Hayward,I Want to Live!,41,New York,1917-06-30,6,30,1917,150,Male,White,William Wyler,Ben-Hur,Winner
+31,1959,Best actress,Susan Hayward,I Want to Live!,41,New York,1917-06-30,6,30,1917,151,Male,White,Jack Clayton,Room at the Top,Nomination
+31,1959,Best actress,Susan Hayward,I Want to Live!,41,New York,1917-06-30,6,30,1917,152,Male,White,George Stevens,The Diary of Anne Frank,Nomination
+31,1959,Best actress,Susan Hayward,I Want to Live!,41,New York,1917-06-30,6,30,1917,153,Male,White,Billy Wilder,Some Like It Hot,Nomination
+31,1959,Best actress,Susan Hayward,I Want to Live!,41,New York,1917-06-30,6,30,1917,154,Male,White,Fred Zinnemann,The Nun's Story,Nomination
+31,1959,Best actor,David Niven,Separate Tables,48,Wales,1910-03-01,3,1,1910,150,Male,White,William Wyler,Ben-Hur,Winner
+31,1959,Best actor,David Niven,Separate Tables,48,Wales,1910-03-01,3,1,1910,151,Male,White,Jack Clayton,Room at the Top,Nomination
+31,1959,Best actor,David Niven,Separate Tables,48,Wales,1910-03-01,3,1,1910,152,Male,White,George Stevens,The Diary of Anne Frank,Nomination
+31,1959,Best actor,David Niven,Separate Tables,48,Wales,1910-03-01,3,1,1910,153,Male,White,Billy Wilder,Some Like It Hot,Nomination
+31,1959,Best actor,David Niven,Separate Tables,48,Wales,1910-03-01,3,1,1910,154,Male,White,Fred Zinnemann,The Nun's Story,Nomination
+32,1960,Best actress,Simone Signoret,Room at the Top,38,Germany,1921-03-25,3,25,1921,155,Male,White,Billy Wilder,The Apartment,Winner
+32,1960,Best actress,Simone Signoret,Room at the Top,38,Germany,1921-03-25,3,25,1921,156,Male,White,Jack Cardiff,Sons and Lovers,Nomination
+32,1960,Best actress,Simone Signoret,Room at the Top,38,Germany,1921-03-25,3,25,1921,157,Male,White,Jules Dassin,Never on Sunday,Nomination
+32,1960,Best actress,Simone Signoret,Room at the Top,38,Germany,1921-03-25,3,25,1921,158,Male,White,Alfred Hitchcock,Psycho,Nomination
+32,1960,Best actress,Simone Signoret,Room at the Top,38,Germany,1921-03-25,3,25,1921,159,Male,White,Fred Zinnemann,The Sundowners,Nomination
+32,1960,Best actor,Charlton Heston,Ben-Hur,36,Illinois,1923-10-04,10,4,1923,155,Male,White,Billy Wilder,The Apartment,Winner
+32,1960,Best actor,Charlton Heston,Ben-Hur,36,Illinois,1923-10-04,10,4,1923,156,Male,White,Jack Cardiff,Sons and Lovers,Nomination
+32,1960,Best actor,Charlton Heston,Ben-Hur,36,Illinois,1923-10-04,10,4,1923,157,Male,White,Jules Dassin,Never on Sunday,Nomination
+32,1960,Best actor,Charlton Heston,Ben-Hur,36,Illinois,1923-10-04,10,4,1923,158,Male,White,Alfred Hitchcock,Psycho,Nomination
+32,1960,Best actor,Charlton Heston,Ben-Hur,36,Illinois,1923-10-04,10,4,1923,159,Male,White,Fred Zinnemann,The Sundowners,Nomination
+33,1961,Best actress,Elisabeth Taylor,Butterfield 8,28,England,1932-02-27,2,27,1932,160,Male,White,Robert Wise & Jerome Robbins,West Side Story,Winner
+33,1961,Best actress,Elisabeth Taylor,Butterfield 8,28,England,1932-02-27,2,27,1932,161,Male,White,Federico Fellini,La Dolce Vita,Nomination
+33,1961,Best actress,Elisabeth Taylor,Butterfield 8,28,England,1932-02-27,2,27,1932,162,Male,White,Stanley Kramer,Judgment at Nuremberg,Nomination
+33,1961,Best actress,Elisabeth Taylor,Butterfield 8,28,England,1932-02-27,2,27,1932,163,Male,White,Robert Rossen,The Hustler,Nomination
+33,1961,Best actress,Elisabeth Taylor,Butterfield 8,28,England,1932-02-27,2,27,1932,164,Male,White,J. Lee Thompson,The Guns of Navarone,Nomination
+33,1961,Best actor,Burt Lancaster,Elmer Gantry,47,New York,1913-11-02,11,2,1913,160,Male,White,Robert Wise & Jerome Robbins,West Side Story,Winner
+33,1961,Best actor,Burt Lancaster,Elmer Gantry,47,New York,1913-11-02,11,2,1913,161,Male,White,Federico Fellini,La Dolce Vita,Nomination
+33,1961,Best actor,Burt Lancaster,Elmer Gantry,47,New York,1913-11-02,11,2,1913,162,Male,White,Stanley Kramer,Judgment at Nuremberg,Nomination
+33,1961,Best actor,Burt Lancaster,Elmer Gantry,47,New York,1913-11-02,11,2,1913,163,Male,White,Robert Rossen,The Hustler,Nomination
+33,1961,Best actor,Burt Lancaster,Elmer Gantry,47,New York,1913-11-02,11,2,1913,164,Male,White,J. Lee Thompson,The Guns of Navarone,Nomination
+34,1962,Best actress,Sophia Loren,Two Women,27,Italy,1934-09-20,9,20,1934,165,Male,White,David Lean,Lawrence of Arabia,Winner
+34,1962,Best actress,Sophia Loren,Two Women,27,Italy,1934-09-20,9,20,1934,166,Male,White,Pietro Germi,Divorce Italian Style,Nomination
+34,1962,Best actress,Sophia Loren,Two Women,27,Italy,1934-09-20,9,20,1934,167,Male,White,Robert Mulligan,To Kill a Mockingbird,Nomination
+34,1962,Best actress,Sophia Loren,Two Women,27,Italy,1934-09-20,9,20,1934,168,Male,White,Arthur Penn,The Miracle Worker,Nomination
+34,1962,Best actress,Sophia Loren,Two Women,27,Italy,1934-09-20,9,20,1934,169,Male,White,Frank Perry,David and Lisa,Nomination
+34,1962,Best actor,Maximilian Schell,Judgment at Nuremburg,31,Austria,1930-12-08,12,8,1930,165,Male,White,David Lean,Lawrence of Arabia,Winner
+34,1962,Best actor,Maximilian Schell,Judgment at Nuremburg,31,Austria,1930-12-08,12,8,1930,166,Male,White,Pietro Germi,Divorce Italian Style,Nomination
+34,1962,Best actor,Maximilian Schell,Judgment at Nuremburg,31,Austria,1930-12-08,12,8,1930,167,Male,White,Robert Mulligan,To Kill a Mockingbird,Nomination
+34,1962,Best actor,Maximilian Schell,Judgment at Nuremburg,31,Austria,1930-12-08,12,8,1930,168,Male,White,Arthur Penn,The Miracle Worker,Nomination
+34,1962,Best actor,Maximilian Schell,Judgment at Nuremburg,31,Austria,1930-12-08,12,8,1930,169,Male,White,Frank Perry,David and Lisa,Nomination
+35,1963,Best actress,Anne Bancroft,The Miracle Worker,31,New York,1931-09-17,9,17,1931,170,Male,White,Tony Richardson,Tom Jones,Winner
+35,1963,Best actress,Anne Bancroft,The Miracle Worker,31,New York,1931-09-17,9,17,1931,171,Male,White,Federico Fellini,8½,Nomination
+35,1963,Best actress,Anne Bancroft,The Miracle Worker,31,New York,1931-09-17,9,17,1931,172,Male,White,Elia Kazan,America America,Nomination
+35,1963,Best actress,Anne Bancroft,The Miracle Worker,31,New York,1931-09-17,9,17,1931,173,Male,White,Otto Preminger,The Cardinal,Nomination
+35,1963,Best actress,Anne Bancroft,The Miracle Worker,31,New York,1931-09-17,9,17,1931,174,Male,White,Martin Ritt,Hud,Nomination
+35,1963,Best actor,Gregory Peck,To Kill a Mockingbird,46,California,1916-04-05,4,5,1916,170,Male,White,Tony Richardson,Tom Jones,Winner
+35,1963,Best actor,Gregory Peck,To Kill a Mockingbird,46,California,1916-04-05,4,5,1916,171,Male,White,Federico Fellini,8½,Nomination
+35,1963,Best actor,Gregory Peck,To Kill a Mockingbird,46,California,1916-04-05,4,5,1916,172,Male,White,Elia Kazan,America America,Nomination
+35,1963,Best actor,Gregory Peck,To Kill a Mockingbird,46,California,1916-04-05,4,5,1916,173,Male,White,Otto Preminger,The Cardinal,Nomination
+35,1963,Best actor,Gregory Peck,To Kill a Mockingbird,46,California,1916-04-05,4,5,1916,174,Male,White,Martin Ritt,Hud,Nomination
+36,1964,Best actress,Patricia Neal,Hud,37,Kentucky,1926-01-20,1,20,1926,175,Male,White,George Cukor,My Fair Lady,Winner
+36,1964,Best actress,Patricia Neal,Hud,37,Kentucky,1926-01-20,1,20,1926,176,Male,White,Michael Cacoyannis,Zorba the Greek,Nomination
+36,1964,Best actress,Patricia Neal,Hud,37,Kentucky,1926-01-20,1,20,1926,177,Male,White,Peter Glenville,Becket,Nomination
+36,1964,Best actress,Patricia Neal,Hud,37,Kentucky,1926-01-20,1,20,1926,178,Male,White,Stanley Kubrick,Dr. Strangelove,Nomination
+36,1964,Best actress,Patricia Neal,Hud,37,Kentucky,1926-01-20,1,20,1926,179,Male,White,Robert Stevenson,Mary Poppins,Nomination
+36,1964,Best actor,Sidney Poitier,Lilies of the Field,36,Florida,1927-02-20,2,20,1927,175,Male,White,George Cukor,My Fair Lady,Winner
+36,1964,Best actor,Sidney Poitier,Lilies of the Field,36,Florida,1927-02-20,2,20,1927,176,Male,White,Michael Cacoyannis,Zorba the Greek,Nomination
+36,1964,Best actor,Sidney Poitier,Lilies of the Field,36,Florida,1927-02-20,2,20,1927,177,Male,White,Peter Glenville,Becket,Nomination
+36,1964,Best actor,Sidney Poitier,Lilies of the Field,36,Florida,1927-02-20,2,20,1927,178,Male,White,Stanley Kubrick,Dr. Strangelove,Nomination
+36,1964,Best actor,Sidney Poitier,Lilies of the Field,36,Florida,1927-02-20,2,20,1927,179,Male,White,Robert Stevenson,Mary Poppins,Nomination
+37,1965,Best actress,Julie Andrews,Mary Poppins,29,England,1935-10-01,10,1,1935,180,Male,White,Robert Wise,The Sound of Music,Winner
+37,1965,Best actress,Julie Andrews,Mary Poppins,29,England,1935-10-01,10,1,1935,181,Male,White,David Lean,Doctor Zhivago,Nomination
+37,1965,Best actress,Julie Andrews,Mary Poppins,29,England,1935-10-01,10,1,1935,182,Male,White,John Schlesinger,Darling,Nomination
+37,1965,Best actress,Julie Andrews,Mary Poppins,29,England,1935-10-01,10,1,1935,183,Male,White,Hiroshi Teshigahara,Woman in the Dunes,Nomination
+37,1965,Best actress,Julie Andrews,Mary Poppins,29,England,1935-10-01,10,1,1935,184,Male,White,William Wyler,The Collector,Nomination
+37,1965,Best actor,Rex Harrison,My Fair Lady,56,England,1908-03-05,3,5,1908,180,Male,White,Robert Wise,The Sound of Music,Winner
+37,1965,Best actor,Rex Harrison,My Fair Lady,56,England,1908-03-05,3,5,1908,181,Male,White,David Lean,Doctor Zhivago,Nomination
+37,1965,Best actor,Rex Harrison,My Fair Lady,56,England,1908-03-05,3,5,1908,182,Male,White,John Schlesinger,Darling,Nomination
+37,1965,Best actor,Rex Harrison,My Fair Lady,56,England,1908-03-05,3,5,1908,183,Male,White,Hiroshi Teshigahara,Woman in the Dunes,Nomination
+37,1965,Best actor,Rex Harrison,My Fair Lady,56,England,1908-03-05,3,5,1908,184,Male,White,William Wyler,The Collector,Nomination
+38,1966,Best actress,Julie Christie,Darling,25,India,1940-04-14,4,14,1940,185,Male,White,Fred Zinnemann,A Man for All Seasons,Winner
+38,1966,Best actress,Julie Christie,Darling,25,India,1940-04-14,4,14,1940,186,Male,White,Michelangelo Antonioni,Blowup,Nomination
+38,1966,Best actress,Julie Christie,Darling,25,India,1940-04-14,4,14,1940,187,Male,White,Richard Brooks,The Professionals,Nomination
+38,1966,Best actress,Julie Christie,Darling,25,India,1940-04-14,4,14,1940,188,Male,White,Claude Lelouch,A Man and a Woman,Nomination
+38,1966,Best actress,Julie Christie,Darling,25,India,1940-04-14,4,14,1940,189,Male,White,Mike Nichols,Who's Afraid of Virginia Woolf?,Nomination
+38,1966,Best actor,Lee Marvin,Cat Ballou,41,New York,1924-02-19,2,19,1924,185,Male,White,Fred Zinnemann,A Man for All Seasons,Winner
+38,1966,Best actor,Lee Marvin,Cat Ballou,41,New York,1924-02-19,2,19,1924,186,Male,White,Michelangelo Antonioni,Blowup,Nomination
+38,1966,Best actor,Lee Marvin,Cat Ballou,41,New York,1924-02-19,2,19,1924,187,Male,White,Richard Brooks,The Professionals,Nomination
+38,1966,Best actor,Lee Marvin,Cat Ballou,41,New York,1924-02-19,2,19,1924,188,Male,White,Claude Lelouch,A Man and a Woman,Nomination
+38,1966,Best actor,Lee Marvin,Cat Ballou,41,New York,1924-02-19,2,19,1924,189,Male,White,Mike Nichols,Who's Afraid of Virginia Woolf?,Nomination
+39,1967,Best actress,Elizabeth Taylor,Who's Afraid of Virginia Wolf,34,England,1932-02-27,2,27,1932,190,Male,White,Mike Nichols,The Graduate,Winner
+39,1967,Best actress,Elizabeth Taylor,Who's Afraid of Virginia Wolf,34,England,1932-02-27,2,27,1932,191,Male,White,Richard Brooks,In Cold Blood,Nomination
+39,1967,Best actress,Elizabeth Taylor,Who's Afraid of Virginia Wolf,34,England,1932-02-27,2,27,1932,192,Male,White,Norman Jewison,In the Heat of the Night,Nomination
+39,1967,Best actress,Elizabeth Taylor,Who's Afraid of Virginia Wolf,34,England,1932-02-27,2,27,1932,193,Male,White,Stanley Kramer,Guess Who's Coming to Dinner,Nomination
+39,1967,Best actress,Elizabeth Taylor,Who's Afraid of Virginia Wolf,34,England,1932-02-27,2,27,1932,194,Male,White,Arthur Penn,Bonnie and Clyde,Nomination
+39,1967,Best actor,Paul Scofield,A Man for All Seasons,44,England,1922-01-21,1,21,1922,190,Male,White,Mike Nichols,The Graduate,Winner
+39,1967,Best actor,Paul Scofield,A Man for All Seasons,44,England,1922-01-21,1,21,1922,191,Male,White,Richard Brooks,In Cold Blood,Nomination
+39,1967,Best actor,Paul Scofield,A Man for All Seasons,44,England,1922-01-21,1,21,1922,192,Male,White,Norman Jewison,In the Heat of the Night,Nomination
+39,1967,Best actor,Paul Scofield,A Man for All Seasons,44,England,1922-01-21,1,21,1922,193,Male,White,Stanley Kramer,Guess Who's Coming to Dinner,Nomination
+39,1967,Best actor,Paul Scofield,A Man for All Seasons,44,England,1922-01-21,1,21,1922,194,Male,White,Arthur Penn,Bonnie and Clyde,Nomination
+40,1968,Best actress,Katharine Hepburn,Guess Who's Coming to Dinner,60,Connecticut,1907-05-12,5,12,1907,195,Male,White,Carol Reed,Oliver!,Winner
+40,1968,Best actress,Katharine Hepburn,Guess Who's Coming to Dinner,60,Connecticut,1907-05-12,5,12,1907,196,Male,White,Anthony Harvey,The Lion in Winter,Nomination
+40,1968,Best actress,Katharine Hepburn,Guess Who's Coming to Dinner,60,Connecticut,1907-05-12,5,12,1907,197,Male,White,Stanley Kubrick,2001: A Space Odyssey,Nomination
+40,1968,Best actress,Katharine Hepburn,Guess Who's Coming to Dinner,60,Connecticut,1907-05-12,5,12,1907,198,Male,White,Gillo Pontecorvo,The Battle of Algiers,Nomination
+40,1968,Best actress,Katharine Hepburn,Guess Who's Coming to Dinner,60,Connecticut,1907-05-12,5,12,1907,199,Male,White,Franco Zeffirelli,Romeo and Juliet,Nomination
+40,1968,Best actor,Rod Steiger,In the Heat of the Night,42,New York,1925-04-14,4,14,1925,195,Male,White,Carol Reed,Oliver!,Winner
+40,1968,Best actor,Rod Steiger,In the Heat of the Night,42,New York,1925-04-14,4,14,1925,196,Male,White,Anthony Harvey,The Lion in Winter,Nomination
+40,1968,Best actor,Rod Steiger,In the Heat of the Night,42,New York,1925-04-14,4,14,1925,197,Male,White,Stanley Kubrick,2001: A Space Odyssey,Nomination
+40,1968,Best actor,Rod Steiger,In the Heat of the Night,42,New York,1925-04-14,4,14,1925,198,Male,White,Gillo Pontecorvo,The Battle of Algiers,Nomination
+40,1968,Best actor,Rod Steiger,In the Heat of the Night,42,New York,1925-04-14,4,14,1925,199,Male,White,Franco Zeffirelli,Romeo and Juliet,Nomination
+41,1969,Best actress,Barbra Streisand,Funny Girl,26,New York,1942-04-24,4,24,1942,200,Male,White,John Schlesinger,Midnight Cowboy,Winner
+41,1969,Best actress,Barbra Streisand,Funny Girl,26,New York,1942-04-24,4,24,1942,201,Male,White,Costa-Gavras,Z,Nomination
+41,1969,Best actress,Barbra Streisand,Funny Girl,26,New York,1942-04-24,4,24,1942,202,Male,White,George Roy Hill,Butch Cassidy and the Sundance Kid,Nomination
+41,1969,Best actress,Barbra Streisand,Funny Girl,26,New York,1942-04-24,4,24,1942,203,Male,White,Arthur Penn,Alice's Restaurant,Nomination
+41,1969,Best actress,Barbra Streisand,Funny Girl,26,New York,1942-04-24,4,24,1942,204,Male,White,Sydney Pollack,"They Shoot Horses, Don't They?",Nomination
+41,1969,Best actress,Katharine Hepburn,The Lion in Winter,61,Connecticut,1907-05-12,5,12,1907,200,Male,White,John Schlesinger,Midnight Cowboy,Winner
+41,1969,Best actress,Katharine Hepburn,The Lion in Winter,61,Connecticut,1907-05-12,5,12,1907,201,Male,White,Costa-Gavras,Z,Nomination
+41,1969,Best actress,Katharine Hepburn,The Lion in Winter,61,Connecticut,1907-05-12,5,12,1907,202,Male,White,George Roy Hill,Butch Cassidy and the Sundance Kid,Nomination
+41,1969,Best actress,Katharine Hepburn,The Lion in Winter,61,Connecticut,1907-05-12,5,12,1907,203,Male,White,Arthur Penn,Alice's Restaurant,Nomination
+41,1969,Best actress,Katharine Hepburn,The Lion in Winter,61,Connecticut,1907-05-12,5,12,1907,204,Male,White,Sydney Pollack,"They Shoot Horses, Don't They?",Nomination
+41,1969,Best actor,Cliff Robertson,Charly,43,California,1925-09-09,9,9,1925,200,Male,White,John Schlesinger,Midnight Cowboy,Winner
+41,1969,Best actor,Cliff Robertson,Charly,43,California,1925-09-09,9,9,1925,201,Male,White,Costa-Gavras,Z,Nomination
+41,1969,Best actor,Cliff Robertson,Charly,43,California,1925-09-09,9,9,1925,202,Male,White,George Roy Hill,Butch Cassidy and the Sundance Kid,Nomination
+41,1969,Best actor,Cliff Robertson,Charly,43,California,1925-09-09,9,9,1925,203,Male,White,Arthur Penn,Alice's Restaurant,Nomination
+41,1969,Best actor,Cliff Robertson,Charly,43,California,1925-09-09,9,9,1925,204,Male,White,Sydney Pollack,"They Shoot Horses, Don't They?",Nomination
+42,1970,Best actress,Maggie Smith,The Prime of Miss Jean Brodie,35,England,1934-12-28,12,28,1934,205,Male,White,Franklin J. Schaffner,Patton,Winner
+42,1970,Best actress,Maggie Smith,The Prime of Miss Jean Brodie,35,England,1934-12-28,12,28,1934,206,Male,White,Robert Altman,M*A*S*H,Nomination
+42,1970,Best actress,Maggie Smith,The Prime of Miss Jean Brodie,35,England,1934-12-28,12,28,1934,207,Male,White,Federico Fellini,Fellini Satyricon,Nomination
+42,1970,Best actress,Maggie Smith,The Prime of Miss Jean Brodie,35,England,1934-12-28,12,28,1934,208,Male,White,Arthur Hiller,Love Story,Nomination
+42,1970,Best actress,Maggie Smith,The Prime of Miss Jean Brodie,35,England,1934-12-28,12,28,1934,209,Male,White,Ken Russell,Women in Love,Nomination
+42,1970,Best actor,John Wayne,True Grit,62,Iowa,1907-05-26,5,26,1907,205,Male,White,Franklin J. Schaffner,Patton,Winner
+42,1970,Best actor,John Wayne,True Grit,62,Iowa,1907-05-26,5,26,1907,206,Male,White,Robert Altman,M*A*S*H,Nomination
+42,1970,Best actor,John Wayne,True Grit,62,Iowa,1907-05-26,5,26,1907,207,Male,White,Federico Fellini,Fellini Satyricon,Nomination
+42,1970,Best actor,John Wayne,True Grit,62,Iowa,1907-05-26,5,26,1907,208,Male,White,Arthur Hiller,Love Story,Nomination
+42,1970,Best actor,John Wayne,True Grit,62,Iowa,1907-05-26,5,26,1907,209,Male,White,Ken Russell,Women in Love,Nomination
+43,1971,Best actress,Glenda Jackson,Women In Love,34,England,1936-05-09,5,9,1936,210,Male,White,William Friedkin,The French Connection,Winner
+43,1971,Best actress,Glenda Jackson,Women In Love,34,England,1936-05-09,5,9,1936,211,Male,White,Peter Bogdanovich,The Last Picture Show,Nomination
+43,1971,Best actress,Glenda Jackson,Women In Love,34,England,1936-05-09,5,9,1936,212,Male,White,Norman Jewison,Fiddler on the Roof,Nomination
+43,1971,Best actress,Glenda Jackson,Women In Love,34,England,1936-05-09,5,9,1936,213,Male,White,Stanley Kubrick,A Clockwork Orange,Nomination
+43,1971,Best actress,Glenda Jackson,Women In Love,34,England,1936-05-09,5,9,1936,214,Male,White,John Schlesinger,Sunday Bloody Sunday,Nomination
+43,1971,Best actor,George C. Scott,Patton,43,Virginia,1927-10-18,10,18,1927,210,Male,White,William Friedkin,The French Connection,Winner
+43,1971,Best actor,George C. Scott,Patton,43,Virginia,1927-10-18,10,18,1927,211,Male,White,Peter Bogdanovich,The Last Picture Show,Nomination
+43,1971,Best actor,George C. Scott,Patton,43,Virginia,1927-10-18,10,18,1927,212,Male,White,Norman Jewison,Fiddler on the Roof,Nomination
+43,1971,Best actor,George C. Scott,Patton,43,Virginia,1927-10-18,10,18,1927,213,Male,White,Stanley Kubrick,A Clockwork Orange,Nomination
+43,1971,Best actor,George C. Scott,Patton,43,Virginia,1927-10-18,10,18,1927,214,Male,White,John Schlesinger,Sunday Bloody Sunday,Nomination
+44,1972,Best actress,Jane Fonda,Klute,34,New York,1937-12-21,12,21,1937,215,Male,White,Bob Fosse,Cabaret,Winner
+44,1972,Best actress,Jane Fonda,Klute,34,New York,1937-12-21,12,21,1937,216,Male,White,John Boorman,Deliverance,Nomination
+44,1972,Best actress,Jane Fonda,Klute,34,New York,1937-12-21,12,21,1937,217,Male,White,Francis Ford Coppola,The Godfather,Nomination
+44,1972,Best actress,Jane Fonda,Klute,34,New York,1937-12-21,12,21,1937,218,Male,White,Joseph L. Mankiewicz,Sleuth,Nomination
+44,1972,Best actress,Jane Fonda,Klute,34,New York,1937-12-21,12,21,1937,219,Male,White,Jan Troell,The Emigrants,Nomination
+44,1972,Best actor,Gene Hackman,The French Connection,41,California,1930-01-30,1,30,1930,215,Male,White,Bob Fosse,Cabaret,Winner
+44,1972,Best actor,Gene Hackman,The French Connection,41,California,1930-01-30,1,30,1930,216,Male,White,John Boorman,Deliverance,Nomination
+44,1972,Best actor,Gene Hackman,The French Connection,41,California,1930-01-30,1,30,1930,217,Male,White,Francis Ford Coppola,The Godfather,Nomination
+44,1972,Best actor,Gene Hackman,The French Connection,41,California,1930-01-30,1,30,1930,218,Male,White,Joseph L. Mankiewicz,Sleuth,Nomination
+44,1972,Best actor,Gene Hackman,The French Connection,41,California,1930-01-30,1,30,1930,219,Male,White,Jan Troell,The Emigrants,Nomination
+45,1973,Best actress,Liza Minnelli,Cabaret,26,California,1946-03-12,3,12,1946,220,Male,White,George Roy Hill,The Sting,Winner
+45,1973,Best actress,Liza Minnelli,Cabaret,26,California,1946-03-12,3,12,1946,221,Male,White,Ingmar Bergman,Cries and Whispers,Nomination
+45,1973,Best actress,Liza Minnelli,Cabaret,26,California,1946-03-12,3,12,1946,222,Male,White,Bernardo Bertolucci,Last Tango in Paris,Nomination
+45,1973,Best actress,Liza Minnelli,Cabaret,26,California,1946-03-12,3,12,1946,223,Male,White,William Friedkin,The Exorcist,Nomination
+45,1973,Best actress,Liza Minnelli,Cabaret,26,California,1946-03-12,3,12,1946,224,Male,White,George Lucas,American Graffiti,Nomination
+45,1973,Best actor,Marlon Brando,The Godfather,48,Nebraska,1924-04-03,4,3,1924,220,Male,White,George Roy Hill,The Sting,Winner
+45,1973,Best actor,Marlon Brando,The Godfather,48,Nebraska,1924-04-03,4,3,1924,221,Male,White,Ingmar Bergman,Cries and Whispers,Nomination
+45,1973,Best actor,Marlon Brando,The Godfather,48,Nebraska,1924-04-03,4,3,1924,222,Male,White,Bernardo Bertolucci,Last Tango in Paris,Nomination
+45,1973,Best actor,Marlon Brando,The Godfather,48,Nebraska,1924-04-03,4,3,1924,223,Male,White,William Friedkin,The Exorcist,Nomination
+45,1973,Best actor,Marlon Brando,The Godfather,48,Nebraska,1924-04-03,4,3,1924,224,Male,White,George Lucas,American Graffiti,Nomination
+46,1974,Best actress,Glenda Jackson,A Touch of Class,37,England,1936-05-09,5,9,1936,225,Male,White,Francis Ford Coppola,The Godfather Part II,Winner
+46,1974,Best actress,Glenda Jackson,A Touch of Class,37,England,1936-05-09,5,9,1936,226,Male,White,John Cassavetes,A Woman Under the Influence,Nomination
+46,1974,Best actress,Glenda Jackson,A Touch of Class,37,England,1936-05-09,5,9,1936,227,Male,White,Bob Fosse,Lenny,Nomination
+46,1974,Best actress,Glenda Jackson,A Touch of Class,37,England,1936-05-09,5,9,1936,228,Male,White,Roman Polanski,Chinatown,Nomination
+46,1974,Best actress,Glenda Jackson,A Touch of Class,37,England,1936-05-09,5,9,1936,229,Male,White,François Truffaut,Day for Night,Nomination
+46,1974,Best actor,Jack Lemmon,Save the Tiger,48,Massachusetts,1925-02-08,2,8,1925,225,Male,White,Francis Ford Coppola,The Godfather Part II,Winner
+46,1974,Best actor,Jack Lemmon,Save the Tiger,48,Massachusetts,1925-02-08,2,8,1925,226,Male,White,John Cassavetes,A Woman Under the Influence,Nomination
+46,1974,Best actor,Jack Lemmon,Save the Tiger,48,Massachusetts,1925-02-08,2,8,1925,227,Male,White,Bob Fosse,Lenny,Nomination
+46,1974,Best actor,Jack Lemmon,Save the Tiger,48,Massachusetts,1925-02-08,2,8,1925,228,Male,White,Roman Polanski,Chinatown,Nomination
+46,1974,Best actor,Jack Lemmon,Save the Tiger,48,Massachusetts,1925-02-08,2,8,1925,229,Male,White,François Truffaut,Day for Night,Nomination
+47,1975,Best actress,Ellen Burstyn,Alice Doesn't Live Here Anymore,42,Michigan,1932-12-07,12,7,1932,230,Male,White,Miloš Forman,One Flew Over the Cuckoo's Nest,Winner
+47,1975,Best actress,Ellen Burstyn,Alice Doesn't Live Here Anymore,42,Michigan,1932-12-07,12,7,1932,231,Male,White,Robert Altman,Nashville,Nomination
+47,1975,Best actress,Ellen Burstyn,Alice Doesn't Live Here Anymore,42,Michigan,1932-12-07,12,7,1932,232,Male,White,Federico Fellini,Amarcord,Nomination
+47,1975,Best actress,Ellen Burstyn,Alice Doesn't Live Here Anymore,42,Michigan,1932-12-07,12,7,1932,233,Male,White,Stanley Kubrick,Barry Lyndon,Nomination
+47,1975,Best actress,Ellen Burstyn,Alice Doesn't Live Here Anymore,42,Michigan,1932-12-07,12,7,1932,234,Male,White,Sidney Lumet,Dog Day Afternoon,Nomination
+47,1975,Best actor,Art Carney,Harry and Tonto,56,New York,1918-11-04,11,4,1918,230,Male,White,Miloš Forman,One Flew Over the Cuckoo's Nest,Winner
+47,1975,Best actor,Art Carney,Harry and Tonto,56,New York,1918-11-04,11,4,1918,231,Male,White,Robert Altman,Nashville,Nomination
+47,1975,Best actor,Art Carney,Harry and Tonto,56,New York,1918-11-04,11,4,1918,232,Male,White,Federico Fellini,Amarcord,Nomination
+47,1975,Best actor,Art Carney,Harry and Tonto,56,New York,1918-11-04,11,4,1918,233,Male,White,Stanley Kubrick,Barry Lyndon,Nomination
+47,1975,Best actor,Art Carney,Harry and Tonto,56,New York,1918-11-04,11,4,1918,234,Male,White,Sidney Lumet,Dog Day Afternoon,Nomination
+48,1976,Best actress,Louise Fletcher,One Flew Over the Cockoo's Nest,41,Alabama,1934-07-22,7,22,1934,235,Male,White,John G. Avildsen,Rocky,Winner
+48,1976,Best actress,Louise Fletcher,One Flew Over the Cockoo's Nest,41,Alabama,1934-07-22,7,22,1934,236,Male,White,Ingmar Bergman,Face to Face,Nomination
+48,1976,Best actress,Louise Fletcher,One Flew Over the Cockoo's Nest,41,Alabama,1934-07-22,7,22,1934,237,Male,White,Sidney Lumet,Network,Nomination
+48,1976,Best actress,Louise Fletcher,One Flew Over the Cockoo's Nest,41,Alabama,1934-07-22,7,22,1934,238,Male,White,Alan J. Pakula,All the President's Men,Nomination
+48,1976,Best actress,Louise Fletcher,One Flew Over the Cockoo's Nest,41,Alabama,1934-07-22,7,22,1934,239,Female,White,Lina Wertmüller,Seven Beauties,Nomination
+48,1976,Best actor,Jack Nicholson,One Flew Over The Cuckoo's Nes,38,New York,1937-04-22,4,22,1937,235,Male,White,John G. Avildsen,Rocky,Winner
+48,1976,Best actor,Jack Nicholson,One Flew Over The Cuckoo's Nes,38,New York,1937-04-22,4,22,1937,236,Male,White,Ingmar Bergman,Face to Face,Nomination
+48,1976,Best actor,Jack Nicholson,One Flew Over The Cuckoo's Nes,38,New York,1937-04-22,4,22,1937,237,Male,White,Sidney Lumet,Network,Nomination
+48,1976,Best actor,Jack Nicholson,One Flew Over The Cuckoo's Nes,38,New York,1937-04-22,4,22,1937,238,Male,White,Alan J. Pakula,All the President's Men,Nomination
+48,1976,Best actor,Jack Nicholson,One Flew Over The Cuckoo's Nes,38,New York,1937-04-22,4,22,1937,239,Female,White,Lina Wertmüller,Seven Beauties,Nomination
+49,1977,Best actress,Faye Dunaway,Network,35,Florida,1941-01-14,1,14,1941,240,Male,White,Woody Allen,Annie Hall,Winner
+49,1977,Best actress,Faye Dunaway,Network,35,Florida,1941-01-14,1,14,1941,241,Male,White,George Lucas,Star Wars,Nomination
+49,1977,Best actress,Faye Dunaway,Network,35,Florida,1941-01-14,1,14,1941,242,Male,White,Herbert Ross,The Turning Point,Nomination
+49,1977,Best actress,Faye Dunaway,Network,35,Florida,1941-01-14,1,14,1941,243,Male,White,Steven Spielberg,Close Encounters of the Third Kind,Nomination
+49,1977,Best actress,Faye Dunaway,Network,35,Florida,1941-01-14,1,14,1941,244,Male,White,Fred Zinnemann,Julia,Nomination
+49,1977,Best actor,Peter Finch,Network,60,England,1916-09-28,9,28,1916,240,Male,White,Woody Allen,Annie Hall,Winner
+49,1977,Best actor,Peter Finch,Network,60,England,1916-09-28,9,28,1916,241,Male,White,George Lucas,Star Wars,Nomination
+49,1977,Best actor,Peter Finch,Network,60,England,1916-09-28,9,28,1916,242,Male,White,Herbert Ross,The Turning Point,Nomination
+49,1977,Best actor,Peter Finch,Network,60,England,1916-09-28,9,28,1916,243,Male,White,Steven Spielberg,Close Encounters of the Third Kind,Nomination
+49,1977,Best actor,Peter Finch,Network,60,England,1916-09-28,9,28,1916,244,Male,White,Fred Zinnemann,Julia,Nomination
+50,1978,Best actress,Diane Keaton,Annie Hall,31,California,1946-01-05,1,5,1946,245,Male,White,Michael Cimino,The Deer Hunter,Winner
+50,1978,Best actress,Diane Keaton,Annie Hall,31,California,1946-01-05,1,5,1946,246,Male,White,Woody Allen,Interiors,Nomination
+50,1978,Best actress,Diane Keaton,Annie Hall,31,California,1946-01-05,1,5,1946,247,Male,White,Hal Ashby,Coming Home,Nomination
+50,1978,Best actress,Diane Keaton,Annie Hall,31,California,1946-01-05,1,5,1946,248,Male,White,Warren Beatty & Buck Henry,Heaven Can Wait,Nomination
+50,1978,Best actress,Diane Keaton,Annie Hall,31,California,1946-01-05,1,5,1946,249,Male,White,Alan Parker,Midnight Express,Nomination
+50,1978,Best actor,Richard Dreyfuss,The Goodbye Girl,30,New York,1947-10-29,10,29,1947,245,Male,White,Michael Cimino,The Deer Hunter,Winner
+50,1978,Best actor,Richard Dreyfuss,The Goodbye Girl,30,New York,1947-10-29,10,29,1947,246,Male,White,Woody Allen,Interiors,Nomination
+50,1978,Best actor,Richard Dreyfuss,The Goodbye Girl,30,New York,1947-10-29,10,29,1947,247,Male,White,Hal Ashby,Coming Home,Nomination
+50,1978,Best actor,Richard Dreyfuss,The Goodbye Girl,30,New York,1947-10-29,10,29,1947,248,Male,White,Warren Beatty & Buck Henry,Heaven Can Wait,Nomination
+50,1978,Best actor,Richard Dreyfuss,The Goodbye Girl,30,New York,1947-10-29,10,29,1947,249,Male,White,Alan Parker,Midnight Express,Nomination
+51,1979,Best actress,Jane Fonda,Coming Home,41,New York,1937-12-21,12,21,1937,250,Male,White,Robert Benton,Kramer vs. Kramer,Winner
+51,1979,Best actress,Jane Fonda,Coming Home,41,New York,1937-12-21,12,21,1937,251,Male,White,Francis Ford Coppola,Apocalypse Now,Nomination
+51,1979,Best actress,Jane Fonda,Coming Home,41,New York,1937-12-21,12,21,1937,252,Male,White,Bob Fosse,All That Jazz,Nomination
+51,1979,Best actress,Jane Fonda,Coming Home,41,New York,1937-12-21,12,21,1937,253,Male,White,Édouard Molinaro,La Cage aux Folles,Nomination
+51,1979,Best actress,Jane Fonda,Coming Home,41,New York,1937-12-21,12,21,1937,254,Male,White,Peter Yates,Breaking Away,Nomination
+51,1979,Best actor,Jon Voight,Coming Home,40,New York,1938-12-29,12,29,1938,250,Male,White,Robert Benton,Kramer vs. Kramer,Winner
+51,1979,Best actor,Jon Voight,Coming Home,40,New York,1938-12-29,12,29,1938,251,Male,White,Francis Ford Coppola,Apocalypse Now,Nomination
+51,1979,Best actor,Jon Voight,Coming Home,40,New York,1938-12-29,12,29,1938,252,Male,White,Bob Fosse,All That Jazz,Nomination
+51,1979,Best actor,Jon Voight,Coming Home,40,New York,1938-12-29,12,29,1938,253,Male,White,Édouard Molinaro,La Cage aux Folles,Nomination
+51,1979,Best actor,Jon Voight,Coming Home,40,New York,1938-12-29,12,29,1938,254,Male,White,Peter Yates,Breaking Away,Nomination
+52,1980,Best actress,Sally Field,Norma Rae,33,California,1946-11-06,11,6,1946,255,Male,White,Robert Redford,Ordinary People,Winner
+52,1980,Best actress,Sally Field,Norma Rae,33,California,1946-11-06,11,6,1946,256,Male,White,David Lynch,The Elephant Man,Nomination
+52,1980,Best actress,Sally Field,Norma Rae,33,California,1946-11-06,11,6,1946,257,Male,White,Roman Polanski,Tess,Nomination
+52,1980,Best actress,Sally Field,Norma Rae,33,California,1946-11-06,11,6,1946,258,Male,White,Richard Rush,The Stunt Man,Nomination
+52,1980,Best actress,Sally Field,Norma Rae,33,California,1946-11-06,11,6,1946,259,Male,White,Martin Scorsese,Raging Bull,Nomination
+52,1980,Best actor,Dustin Hoffman,Kramer vs. Kramer,42,California,1937-08-08,8,8,1937,255,Male,White,Robert Redford,Ordinary People,Winner
+52,1980,Best actor,Dustin Hoffman,Kramer vs. Kramer,42,California,1937-08-08,8,8,1937,256,Male,White,David Lynch,The Elephant Man,Nomination
+52,1980,Best actor,Dustin Hoffman,Kramer vs. Kramer,42,California,1937-08-08,8,8,1937,257,Male,White,Roman Polanski,Tess,Nomination
+52,1980,Best actor,Dustin Hoffman,Kramer vs. Kramer,42,California,1937-08-08,8,8,1937,258,Male,White,Richard Rush,The Stunt Man,Nomination
+52,1980,Best actor,Dustin Hoffman,Kramer vs. Kramer,42,California,1937-08-08,8,8,1937,259,Male,White,Martin Scorsese,Raging Bull,Nomination
+53,1981,Best actress,Sissy Spacek,Coal Miner's Daughter,31,Texas,1949-12-25,12,25,1949,260,Male,White,Warren Beatty,Reds,Winner
+53,1981,Best actress,Sissy Spacek,Coal Miner's Daughter,31,Texas,1949-12-25,12,25,1949,261,Male,White,Hugh Hudson,Chariots of Fire,Nomination
+53,1981,Best actress,Sissy Spacek,Coal Miner's Daughter,31,Texas,1949-12-25,12,25,1949,262,Male,White,Louis Malle,Atlantic City,Nomination
+53,1981,Best actress,Sissy Spacek,Coal Miner's Daughter,31,Texas,1949-12-25,12,25,1949,263,Male,White,Mark Rydell,On Golden Pond,Nomination
+53,1981,Best actress,Sissy Spacek,Coal Miner's Daughter,31,Texas,1949-12-25,12,25,1949,264,Male,White,Steven Spielberg,Raiders of the Lost Ark,Nomination
+53,1981,Best actor,Robert De Niro,Raging Bull,37,New York,1943-08-17,8,17,1943,260,Male,White,Warren Beatty,Reds,Winner
+53,1981,Best actor,Robert De Niro,Raging Bull,37,New York,1943-08-17,8,17,1943,261,Male,White,Hugh Hudson,Chariots of Fire,Nomination
+53,1981,Best actor,Robert De Niro,Raging Bull,37,New York,1943-08-17,8,17,1943,262,Male,White,Louis Malle,Atlantic City,Nomination
+53,1981,Best actor,Robert De Niro,Raging Bull,37,New York,1943-08-17,8,17,1943,263,Male,White,Mark Rydell,On Golden Pond,Nomination
+53,1981,Best actor,Robert De Niro,Raging Bull,37,New York,1943-08-17,8,17,1943,264,Male,White,Steven Spielberg,Raiders of the Lost Ark,Nomination
+54,1982,Best actress,Katharine Hepburn,On Golden Pond,74,Connecticut,1907-05-12,5,12,1907,265,Male,White,Richard Attenborough,Gandhi,Winner
+54,1982,Best actress,Katharine Hepburn,On Golden Pond,74,Connecticut,1907-05-12,5,12,1907,266,Male,White,Sidney Lumet,The Verdict,Nomination
+54,1982,Best actress,Katharine Hepburn,On Golden Pond,74,Connecticut,1907-05-12,5,12,1907,267,Male,White,Wolfgang Petersen,Das Boot,Nomination
+54,1982,Best actress,Katharine Hepburn,On Golden Pond,74,Connecticut,1907-05-12,5,12,1907,268,Male,White,Sydney Pollack,Tootsie,Nomination
+54,1982,Best actress,Katharine Hepburn,On Golden Pond,74,Connecticut,1907-05-12,5,12,1907,269,Male,White,Steven Spielberg,E.T. the Extra-Terrestrial,Nomination
+54,1982,Best actor,Henry Fonda,On Golden Pond,76,Nebraska,1905-05-16,5,16,1905,265,Male,White,Richard Attenborough,Gandhi,Winner
+54,1982,Best actor,Henry Fonda,On Golden Pond,76,Nebraska,1905-05-16,5,16,1905,266,Male,White,Sidney Lumet,The Verdict,Nomination
+54,1982,Best actor,Henry Fonda,On Golden Pond,76,Nebraska,1905-05-16,5,16,1905,267,Male,White,Wolfgang Petersen,Das Boot,Nomination
+54,1982,Best actor,Henry Fonda,On Golden Pond,76,Nebraska,1905-05-16,5,16,1905,268,Male,White,Sydney Pollack,Tootsie,Nomination
+54,1982,Best actor,Henry Fonda,On Golden Pond,76,Nebraska,1905-05-16,5,16,1905,269,Male,White,Steven Spielberg,E.T. the Extra-Terrestrial,Nomination
+55,1983,Best actress,Meryl Streep,Sophies Choice,33,New Jersey,1949-06-22,6,22,1949,270,Male,White,James L. Brooks,Terms of Endearment,Winner
+55,1983,Best actress,Meryl Streep,Sophies Choice,33,New Jersey,1949-06-22,6,22,1949,271,Male,White,Bruce Beresford,Tender Mercies,Nomination
+55,1983,Best actress,Meryl Streep,Sophies Choice,33,New Jersey,1949-06-22,6,22,1949,272,Male,White,Ingmar Bergman,Fanny and Alexander,Nomination
+55,1983,Best actress,Meryl Streep,Sophies Choice,33,New Jersey,1949-06-22,6,22,1949,273,Male,White,Mike Nichols,Silkwood,Nomination
+55,1983,Best actress,Meryl Streep,Sophies Choice,33,New Jersey,1949-06-22,6,22,1949,274,Male,White,Peter Yates,The Dresser,Nomination
+55,1983,Best actor,Ben Kingsley,Ghandi,39,England,1943-12-31,12,31,1943,270,Male,White,James L. Brooks,Terms of Endearment,Winner
+55,1983,Best actor,Ben Kingsley,Ghandi,39,England,1943-12-31,12,31,1943,271,Male,White,Bruce Beresford,Tender Mercies,Nomination
+55,1983,Best actor,Ben Kingsley,Ghandi,39,England,1943-12-31,12,31,1943,272,Male,White,Ingmar Bergman,Fanny and Alexander,Nomination
+55,1983,Best actor,Ben Kingsley,Ghandi,39,England,1943-12-31,12,31,1943,273,Male,White,Mike Nichols,Silkwood,Nomination
+55,1983,Best actor,Ben Kingsley,Ghandi,39,England,1943-12-31,12,31,1943,274,Male,White,Peter Yates,The Dresser,Nomination
+56,1984,Best actress,Shirley MacLaine,Terms of Endearment,49,Virginia,1934-04-24,4,24,1934,275,Male,White,Miloš Forman,Amadeus,Winner
+56,1984,Best actress,Shirley MacLaine,Terms of Endearment,49,Virginia,1934-04-24,4,24,1934,276,Male,White,Woody Allen,Broadway Danny Rose,Nomination
+56,1984,Best actress,Shirley MacLaine,Terms of Endearment,49,Virginia,1934-04-24,4,24,1934,277,Male,White,Robert Benton,Places in the Heart,Nomination
+56,1984,Best actress,Shirley MacLaine,Terms of Endearment,49,Virginia,1934-04-24,4,24,1934,278,Male,White,Roland Joffé,The Killing Fields,Nomination
+56,1984,Best actress,Shirley MacLaine,Terms of Endearment,49,Virginia,1934-04-24,4,24,1934,279,Male,White,David Lean,A Passage to India,Nomination
+56,1984,Best actor,Robert Duvall,Tender Mercies,52,California,1931-01-05,1,5,1931,275,Male,White,Miloš Forman,Amadeus,Winner
+56,1984,Best actor,Robert Duvall,Tender Mercies,52,California,1931-01-05,1,5,1931,276,Male,White,Woody Allen,Broadway Danny Rose,Nomination
+56,1984,Best actor,Robert Duvall,Tender Mercies,52,California,1931-01-05,1,5,1931,277,Male,White,Robert Benton,Places in the Heart,Nomination
+56,1984,Best actor,Robert Duvall,Tender Mercies,52,California,1931-01-05,1,5,1931,278,Male,White,Roland Joffé,The Killing Fields,Nomination
+56,1984,Best actor,Robert Duvall,Tender Mercies,52,California,1931-01-05,1,5,1931,279,Male,White,David Lean,A Passage to India,Nomination
+57,1985,Best actress,Sally Field,Places in the Heart,38,California,1946-11-06,11,6,1946,280,Male,White,Sydney Pollack,Out of Africa,Winner
+57,1985,Best actress,Sally Field,Places in the Heart,38,California,1946-11-06,11,6,1946,281,Male,White,Héctor Babenco,Kiss of the Spider Woman,Nomination
+57,1985,Best actress,Sally Field,Places in the Heart,38,California,1946-11-06,11,6,1946,282,Male,White,John Huston,Prizzi's Honor,Nomination
+57,1985,Best actress,Sally Field,Places in the Heart,38,California,1946-11-06,11,6,1946,283,Male,White,Akira Kurosawa,Ran,Nomination
+57,1985,Best actress,Sally Field,Places in the Heart,38,California,1946-11-06,11,6,1946,284,Male,White,Peter Weir,Witness,Nomination
+57,1985,Best actor,F. Murray Abraham,Amadeus,45,Pennsylvania,1939-10-24,10,24,1939,280,Male,White,Sydney Pollack,Out of Africa,Winner
+57,1985,Best actor,F. Murray Abraham,Amadeus,45,Pennsylvania,1939-10-24,10,24,1939,281,Male,White,Héctor Babenco,Kiss of the Spider Woman,Nomination
+57,1985,Best actor,F. Murray Abraham,Amadeus,45,Pennsylvania,1939-10-24,10,24,1939,282,Male,White,John Huston,Prizzi's Honor,Nomination
+57,1985,Best actor,F. Murray Abraham,Amadeus,45,Pennsylvania,1939-10-24,10,24,1939,283,Male,White,Akira Kurosawa,Ran,Nomination
+57,1985,Best actor,F. Murray Abraham,Amadeus,45,Pennsylvania,1939-10-24,10,24,1939,284,Male,White,Peter Weir,Witness,Nomination
+58,1986,Best actress,Geraldine Page,Trip to Bountiful,61,Missouri,1924-11-22,11,22,1924,285,Male,White,Oliver Stone,Platoon,Winner
+58,1986,Best actress,Geraldine Page,Trip to Bountiful,61,Missouri,1924-11-22,11,22,1924,286,Male,White,Woody Allen,Hannah and Her Sisters,Nomination
+58,1986,Best actress,Geraldine Page,Trip to Bountiful,61,Missouri,1924-11-22,11,22,1924,287,Male,White,James Ivory,A Room with a View,Nomination
+58,1986,Best actress,Geraldine Page,Trip to Bountiful,61,Missouri,1924-11-22,11,22,1924,288,Male,White,Roland Joffé,The Mission,Nomination
+58,1986,Best actress,Geraldine Page,Trip to Bountiful,61,Missouri,1924-11-22,11,22,1924,289,Male,White,David Lynch,Blue Velvet,Nomination
+58,1986,Best actor,William Hurt,Kiss of the Spider Woman,35,Washington DC,1950-03-20,3,20,1950,285,Male,White,Oliver Stone,Platoon,Winner
+58,1986,Best actor,William Hurt,Kiss of the Spider Woman,35,Washington DC,1950-03-20,3,20,1950,286,Male,White,Woody Allen,Hannah and Her Sisters,Nomination
+58,1986,Best actor,William Hurt,Kiss of the Spider Woman,35,Washington DC,1950-03-20,3,20,1950,287,Male,White,James Ivory,A Room with a View,Nomination
+58,1986,Best actor,William Hurt,Kiss of the Spider Woman,35,Washington DC,1950-03-20,3,20,1950,288,Male,White,Roland Joffé,The Mission,Nomination
+58,1986,Best actor,William Hurt,Kiss of the Spider Woman,35,Washington DC,1950-03-20,3,20,1950,289,Male,White,David Lynch,Blue Velvet,Nomination
+59,1987,Best actress,Marlee Matlin,Children of a Lesser God,21,Illinois,1965-08-24,8,24,1965,290,Male,White,Bernardo Bertolucci,The Last Emperor,Winner
+59,1987,Best actress,Marlee Matlin,Children of a Lesser God,21,Illinois,1965-08-24,8,24,1965,291,Male,White,John Boorman,Hope and Glory,Nomination
+59,1987,Best actress,Marlee Matlin,Children of a Lesser God,21,Illinois,1965-08-24,8,24,1965,292,Male,White,Lasse Hallström,My Life as a Dog,Nomination
+59,1987,Best actress,Marlee Matlin,Children of a Lesser God,21,Illinois,1965-08-24,8,24,1965,293,Male,White,Norman Jewison,Moonstruck,Nomination
+59,1987,Best actress,Marlee Matlin,Children of a Lesser God,21,Illinois,1965-08-24,8,24,1965,294,Male,White,Adrian Lyne,Fatal Attraction,Nomination
+59,1987,Best actor,Paul Newman,The Color of Money,61,Ohio,1925-01-26,1,26,1925,290,Male,White,Bernardo Bertolucci,The Last Emperor,Winner
+59,1987,Best actor,Paul Newman,The Color of Money,61,Ohio,1925-01-26,1,26,1925,291,Male,White,John Boorman,Hope and Glory,Nomination
+59,1987,Best actor,Paul Newman,The Color of Money,61,Ohio,1925-01-26,1,26,1925,292,Male,White,Lasse Hallström,My Life as a Dog,Nomination
+59,1987,Best actor,Paul Newman,The Color of Money,61,Ohio,1925-01-26,1,26,1925,293,Male,White,Norman Jewison,Moonstruck,Nomination
+59,1987,Best actor,Paul Newman,The Color of Money,61,Ohio,1925-01-26,1,26,1925,294,Male,White,Adrian Lyne,Fatal Attraction,Nomination
+60,1988,Best actress,Cher,Moonstruck,41,California,1946-05-20,5,20,1946,295,Male,White,Barry Levinson,Rain Man,Winner
+60,1988,Best actress,Cher,Moonstruck,41,California,1946-05-20,5,20,1946,296,Male,White,Charles Crichton,A Fish Called Wanda,Nomination
+60,1988,Best actress,Cher,Moonstruck,41,California,1946-05-20,5,20,1946,297,Male,White,Mike Nichols,Working Girl,Nomination
+60,1988,Best actress,Cher,Moonstruck,41,California,1946-05-20,5,20,1946,298,Male,White,Alan Parker,Mississippi Burning,Nomination
+60,1988,Best actress,Cher,Moonstruck,41,California,1946-05-20,5,20,1946,299,Male,White,Martin Scorsese,The Last Temptation of Christ,Nomination
+60,1988,Best actor,Michael Douglas,Wall Street,43,New Jersey,1944-09-25,9,25,1944,295,Male,White,Barry Levinson,Rain Man,Winner
+60,1988,Best actor,Michael Douglas,Wall Street,43,New Jersey,1944-09-25,9,25,1944,296,Male,White,Charles Crichton,A Fish Called Wanda,Nomination
+60,1988,Best actor,Michael Douglas,Wall Street,43,New Jersey,1944-09-25,9,25,1944,297,Male,White,Mike Nichols,Working Girl,Nomination
+60,1988,Best actor,Michael Douglas,Wall Street,43,New Jersey,1944-09-25,9,25,1944,298,Male,White,Alan Parker,Mississippi Burning,Nomination
+60,1988,Best actor,Michael Douglas,Wall Street,43,New Jersey,1944-09-25,9,25,1944,299,Male,White,Martin Scorsese,The Last Temptation of Christ,Nomination
+61,1989,Best actress,Jodie Foster,The Accused,26,California,1962-11-19,11,19,1962,300,Male,White,Oliver Stone,Born on the Fourth of July,Winner
+61,1989,Best actress,Jodie Foster,The Accused,26,California,1962-11-19,11,19,1962,301,Male,White,Woody Allen,Crimes and Misdemeanors,Nomination
+61,1989,Best actress,Jodie Foster,The Accused,26,California,1962-11-19,11,19,1962,302,Male,White,Kenneth Branagh,Henry V,Nomination
+61,1989,Best actress,Jodie Foster,The Accused,26,California,1962-11-19,11,19,1962,303,Male,White,Jim Sheridan,My Left Foot,Nomination
+61,1989,Best actress,Jodie Foster,The Accused,26,California,1962-11-19,11,19,1962,304,Male,White,Peter Weir,Dead Poets Society,Nomination
+61,1989,Best actor,Dustin Hoffman,Rain Man,51,California,1937-08-08,8,8,1937,300,Male,White,Oliver Stone,Born on the Fourth of July,Winner
+61,1989,Best actor,Dustin Hoffman,Rain Man,51,California,1937-08-08,8,8,1937,301,Male,White,Woody Allen,Crimes and Misdemeanors,Nomination
+61,1989,Best actor,Dustin Hoffman,Rain Man,51,California,1937-08-08,8,8,1937,302,Male,White,Kenneth Branagh,Henry V,Nomination
+61,1989,Best actor,Dustin Hoffman,Rain Man,51,California,1937-08-08,8,8,1937,303,Male,White,Jim Sheridan,My Left Foot,Nomination
+61,1989,Best actor,Dustin Hoffman,Rain Man,51,California,1937-08-08,8,8,1937,304,Male,White,Peter Weir,Dead Poets Society,Nomination
+62,1990,Best actress,Jessica Tandy,Driving Miss Daisy,80,England,1909-06-07,6,7,1909,305,Male,White,Kevin Costner,Dances with Wolves,Winner
+62,1990,Best actress,Jessica Tandy,Driving Miss Daisy,80,England,1909-06-07,6,7,1909,306,Male,White,Francis Ford Coppola,The Godfather Part III,Nomination
+62,1990,Best actress,Jessica Tandy,Driving Miss Daisy,80,England,1909-06-07,6,7,1909,307,Male,White,Stephen Frears,The Grifters,Nomination
+62,1990,Best actress,Jessica Tandy,Driving Miss Daisy,80,England,1909-06-07,6,7,1909,308,Male,White,Barbet Schroeder,Reversal of Fortune,Nomination
+62,1990,Best actress,Jessica Tandy,Driving Miss Daisy,80,England,1909-06-07,6,7,1909,309,Male,White,Martin Scorsese,Goodfellas,Nomination
+62,1990,Best actor,Daniel Day-Lewis,My Left Foot,32,England,1957-04-29,4,29,1957,305,Male,White,Kevin Costner,Dances with Wolves,Winner
+62,1990,Best actor,Daniel Day-Lewis,My Left Foot,32,England,1957-04-29,4,29,1957,306,Male,White,Francis Ford Coppola,The Godfather Part III,Nomination
+62,1990,Best actor,Daniel Day-Lewis,My Left Foot,32,England,1957-04-29,4,29,1957,307,Male,White,Stephen Frears,The Grifters,Nomination
+62,1990,Best actor,Daniel Day-Lewis,My Left Foot,32,England,1957-04-29,4,29,1957,308,Male,White,Barbet Schroeder,Reversal of Fortune,Nomination
+62,1990,Best actor,Daniel Day-Lewis,My Left Foot,32,England,1957-04-29,4,29,1957,309,Male,White,Martin Scorsese,Goodfellas,Nomination
+63,1991,Best actress,Kathy Bates,Misery,42,Tennessee,1948-06-28,6,28,1948,310,Male,White,Jonathan Demme,The Silence of the Lambs,Winner
+63,1991,Best actress,Kathy Bates,Misery,42,Tennessee,1948-06-28,6,28,1948,311,Male,White,Barry Levinson,Bugsy,Nomination
+63,1991,Best actress,Kathy Bates,Misery,42,Tennessee,1948-06-28,6,28,1948,312,Male,White,Ridley Scott,Thelma & Louise,Nomination
+63,1991,Best actress,Kathy Bates,Misery,42,Tennessee,1948-06-28,6,28,1948,313,Male,Black,John Singleton,Boyz n the Hood,Nomination
+63,1991,Best actress,Kathy Bates,Misery,42,Tennessee,1948-06-28,6,28,1948,314,Male,White,Oliver Stone,JFK,Nomination
+63,1991,Best actor,Jeremy Irons,Reversal of Fortune,42,Isle of Wight,1948-09-19,9,19,1948,310,Male,White,Jonathan Demme,The Silence of the Lambs,Winner
+63,1991,Best actor,Jeremy Irons,Reversal of Fortune,42,Isle of Wight,1948-09-19,9,19,1948,311,Male,White,Barry Levinson,Bugsy,Nomination
+63,1991,Best actor,Jeremy Irons,Reversal of Fortune,42,Isle of Wight,1948-09-19,9,19,1948,312,Male,White,Ridley Scott,Thelma & Louise,Nomination
+63,1991,Best actor,Jeremy Irons,Reversal of Fortune,42,Isle of Wight,1948-09-19,9,19,1948,313,Male,Black,John Singleton,Boyz n the Hood,Nomination
+63,1991,Best actor,Jeremy Irons,Reversal of Fortune,42,Isle of Wight,1948-09-19,9,19,1948,314,Male,White,Oliver Stone,JFK,Nomination
+64,1992,Best actress,Jodie Foster,The Silence of the Lambs,29,California,1962-11-19,11,19,1962,315,Male,White,Clint Eastwood,Unforgiven,Winner
+64,1992,Best actress,Jodie Foster,The Silence of the Lambs,29,California,1962-11-19,11,19,1962,316,Male,White,Robert Altman,The Player,Nomination
+64,1992,Best actress,Jodie Foster,The Silence of the Lambs,29,California,1962-11-19,11,19,1962,317,Male,White,Martin Brest,Scent of a Woman,Nomination
+64,1992,Best actress,Jodie Foster,The Silence of the Lambs,29,California,1962-11-19,11,19,1962,318,Male,White,James Ivory,Howards End,Nomination
+64,1992,Best actress,Jodie Foster,The Silence of the Lambs,29,California,1962-11-19,11,19,1962,319,Male,White,Neil Jordan,The Crying Game,Nomination
+64,1992,Best actor,Anthony Hopkins,The Silence of the Lambs,54,Wales,1937-12-31,12,31,1937,315,Male,White,Clint Eastwood,Unforgiven,Winner
+64,1992,Best actor,Anthony Hopkins,The Silence of the Lambs,54,Wales,1937-12-31,12,31,1937,316,Male,White,Robert Altman,The Player,Nomination
+64,1992,Best actor,Anthony Hopkins,The Silence of the Lambs,54,Wales,1937-12-31,12,31,1937,317,Male,White,Martin Brest,Scent of a Woman,Nomination
+64,1992,Best actor,Anthony Hopkins,The Silence of the Lambs,54,Wales,1937-12-31,12,31,1937,318,Male,White,James Ivory,Howards End,Nomination
+64,1992,Best actor,Anthony Hopkins,The Silence of the Lambs,54,Wales,1937-12-31,12,31,1937,319,Male,White,Neil Jordan,The Crying Game,Nomination
+65,1993,Best actress,Emma Thompson,Howards End,33,England,1959-04-15,4,15,1959,320,Male,White,Steven Spielberg,Schindler's List,Winner
+65,1993,Best actress,Emma Thompson,Howards End,33,England,1959-04-15,4,15,1959,321,Male,White,Robert Altman,Short Cuts,Nomination
+65,1993,Best actress,Emma Thompson,Howards End,33,England,1959-04-15,4,15,1959,322,Female,White,Jane Campion,The Piano,Nomination
+65,1993,Best actress,Emma Thompson,Howards End,33,England,1959-04-15,4,15,1959,323,Male,White,James Ivory,The Remains of the Day,Nomination
+65,1993,Best actress,Emma Thompson,Howards End,33,England,1959-04-15,4,15,1959,324,Male,White,Jim Sheridan,In the Name of the Father,Nomination
+65,1993,Best actor,Al Pacino,Scent of a Woman,52,New York,1940-04-25,4,25,1940,320,Male,White,Steven Spielberg,Schindler's List,Winner
+65,1993,Best actor,Al Pacino,Scent of a Woman,52,New York,1940-04-25,4,25,1940,321,Male,White,Robert Altman,Short Cuts,Nomination
+65,1993,Best actor,Al Pacino,Scent of a Woman,52,New York,1940-04-25,4,25,1940,322,Female,White,Jane Campion,The Piano,Nomination
+65,1993,Best actor,Al Pacino,Scent of a Woman,52,New York,1940-04-25,4,25,1940,323,Male,White,James Ivory,The Remains of the Day,Nomination
+65,1993,Best actor,Al Pacino,Scent of a Woman,52,New York,1940-04-25,4,25,1940,324,Male,White,Jim Sheridan,In the Name of the Father,Nomination
+66,1994,Best actress,Holly Hunter,The Piano,35,Georgia,1958-03-20,3,20,1958,325,Male,White,Robert Zemeckis,Forrest Gump,Winner
+66,1994,Best actress,Holly Hunter,The Piano,35,Georgia,1958-03-20,3,20,1958,326,Male,White,Woody Allen,Bullets over Broadway,Nomination
+66,1994,Best actress,Holly Hunter,The Piano,35,Georgia,1958-03-20,3,20,1958,327,Male,White,Krzysztof Kieślowski,Three Colours: Red,Nomination
+66,1994,Best actress,Holly Hunter,The Piano,35,Georgia,1958-03-20,3,20,1958,328,Male,White,Robert Redford,Quiz Show,Nomination
+66,1994,Best actress,Holly Hunter,The Piano,35,Georgia,1958-03-20,3,20,1958,329,Male,White,Quentin Tarantino,Pulp Fiction,Nomination
+66,1994,Best actor,Tom Hanks,Philadelphia,37,California,1956-07-09,7,9,1956,325,Male,White,Robert Zemeckis,Forrest Gump,Winner
+66,1994,Best actor,Tom Hanks,Philadelphia,37,California,1956-07-09,7,9,1956,326,Male,White,Woody Allen,Bullets over Broadway,Nomination
+66,1994,Best actor,Tom Hanks,Philadelphia,37,California,1956-07-09,7,9,1956,327,Male,White,Krzysztof Kieślowski,Three Colours: Red,Nomination
+66,1994,Best actor,Tom Hanks,Philadelphia,37,California,1956-07-09,7,9,1956,328,Male,White,Robert Redford,Quiz Show,Nomination
+66,1994,Best actor,Tom Hanks,Philadelphia,37,California,1956-07-09,7,9,1956,329,Male,White,Quentin Tarantino,Pulp Fiction,Nomination
+67,1995,Best actress,Jessica Lange,Blue Sky,45,Minnesota,1949-04-20,4,20,1949,330,Male,White,Mel Gibson,Braveheart,Winner
+67,1995,Best actress,Jessica Lange,Blue Sky,45,Minnesota,1949-04-20,4,20,1949,331,Male,White,Mike Figgis,Leaving Las Vegas,Nomination
+67,1995,Best actress,Jessica Lange,Blue Sky,45,Minnesota,1949-04-20,4,20,1949,332,Male,White,Chris Noonan,Babe,Nomination
+67,1995,Best actress,Jessica Lange,Blue Sky,45,Minnesota,1949-04-20,4,20,1949,333,Male,White,Michael Radford,Il Postino: The Postman,Nomination
+67,1995,Best actress,Jessica Lange,Blue Sky,45,Minnesota,1949-04-20,4,20,1949,334,Male,White,Tim Robbins,Dead Man Walking,Nomination
+67,1995,Best actor,Tom Hanks,Forest Gump,38,California,1956-07-09,7,9,1956,330,Male,White,Mel Gibson,Braveheart,Winner
+67,1995,Best actor,Tom Hanks,Forest Gump,38,California,1956-07-09,7,9,1956,331,Male,White,Mike Figgis,Leaving Las Vegas,Nomination
+67,1995,Best actor,Tom Hanks,Forest Gump,38,California,1956-07-09,7,9,1956,332,Male,White,Chris Noonan,Babe,Nomination
+67,1995,Best actor,Tom Hanks,Forest Gump,38,California,1956-07-09,7,9,1956,333,Male,White,Michael Radford,Il Postino: The Postman,Nomination
+67,1995,Best actor,Tom Hanks,Forest Gump,38,California,1956-07-09,7,9,1956,334,Male,White,Tim Robbins,Dead Man Walking,Nomination
+68,1996,Best actress,Susan Sarandon,Dead Man Walking,49,New York,1946-10-04,10,4,1946,335,Male,White,Anthony Minghella,The English Patient,Winner
+68,1996,Best actress,Susan Sarandon,Dead Man Walking,49,New York,1946-10-04,10,4,1946,336,Male,White,Joel Coen,Fargo,Nomination
+68,1996,Best actress,Susan Sarandon,Dead Man Walking,49,New York,1946-10-04,10,4,1946,337,Male,White,Miloš Forman,The People vs. Larry Flynt,Nomination
+68,1996,Best actress,Susan Sarandon,Dead Man Walking,49,New York,1946-10-04,10,4,1946,338,Male,White,Scott Hicks,Shine,Nomination
+68,1996,Best actress,Susan Sarandon,Dead Man Walking,49,New York,1946-10-04,10,4,1946,339,Male,White,Mike Leigh,Secrets & Lies,Nomination
+68,1996,Best actor,Nicolas Cage,Leaving Las Vegas,31,California,1964-01-07,1,7,1964,335,Male,White,Anthony Minghella,The English Patient,Winner
+68,1996,Best actor,Nicolas Cage,Leaving Las Vegas,31,California,1964-01-07,1,7,1964,336,Male,White,Joel Coen,Fargo,Nomination
+68,1996,Best actor,Nicolas Cage,Leaving Las Vegas,31,California,1964-01-07,1,7,1964,337,Male,White,Miloš Forman,The People vs. Larry Flynt,Nomination
+68,1996,Best actor,Nicolas Cage,Leaving Las Vegas,31,California,1964-01-07,1,7,1964,338,Male,White,Scott Hicks,Shine,Nomination
+68,1996,Best actor,Nicolas Cage,Leaving Las Vegas,31,California,1964-01-07,1,7,1964,339,Male,White,Mike Leigh,Secrets & Lies,Nomination
+69,1997,Best actress,Frances McDormand,Fargo,39,Illinois,1957-06-23,6,23,1957,340,Male,White,James Cameron,Titanic,Winner
+69,1997,Best actress,Frances McDormand,Fargo,39,Illinois,1957-06-23,6,23,1957,341,Male,White,Peter Cattaneo,The Full Monty,Nomination
+69,1997,Best actress,Frances McDormand,Fargo,39,Illinois,1957-06-23,6,23,1957,342,Male,White,Atom Egoyan,The Sweet Hereafter,Nomination
+69,1997,Best actress,Frances McDormand,Fargo,39,Illinois,1957-06-23,6,23,1957,343,Male,White,Curtis Hanson,L.A. Confidential,Nomination
+69,1997,Best actress,Frances McDormand,Fargo,39,Illinois,1957-06-23,6,23,1957,344,Male,White,Gus Van Sant,Good Will Hunting,Nomination
+69,1997,Best actor,Geoffrey Rush,Shine,45,Australia,1951-07-06,7,6,1951,340,Male,White,James Cameron,Titanic,Winner
+69,1997,Best actor,Geoffrey Rush,Shine,45,Australia,1951-07-06,7,6,1951,341,Male,White,Peter Cattaneo,The Full Monty,Nomination
+69,1997,Best actor,Geoffrey Rush,Shine,45,Australia,1951-07-06,7,6,1951,342,Male,White,Atom Egoyan,The Sweet Hereafter,Nomination
+69,1997,Best actor,Geoffrey Rush,Shine,45,Australia,1951-07-06,7,6,1951,343,Male,White,Curtis Hanson,L.A. Confidential,Nomination
+69,1997,Best actor,Geoffrey Rush,Shine,45,Australia,1951-07-06,7,6,1951,344,Male,White,Gus Van Sant,Good Will Hunting,Nomination
+70,1998,Best actress,Helen Hunt,As Good As It Gets,34,California,1963-06-15,6,15,1963,345,Male,White,Steven Spielberg,Saving Private Ryan,Winner
+70,1998,Best actress,Helen Hunt,As Good As It Gets,34,California,1963-06-15,6,15,1963,346,Male,White,Roberto Benigni,Life Is Beautiful,Nomination
+70,1998,Best actress,Helen Hunt,As Good As It Gets,34,California,1963-06-15,6,15,1963,347,Male,White,John Madden,Shakespeare in Love,Nomination
+70,1998,Best actress,Helen Hunt,As Good As It Gets,34,California,1963-06-15,6,15,1963,348,Male,White,Terrence Malick,The Thin Red Line,Nomination
+70,1998,Best actress,Helen Hunt,As Good As It Gets,34,California,1963-06-15,6,15,1963,349,Male,White,Peter Weir,The Truman Show,Nomination
+70,1998,Best actor,Jack Nicholson,As Good as It Gets,60,New York,1937-04-22,4,22,1937,345,Male,White,Steven Spielberg,Saving Private Ryan,Winner
+70,1998,Best actor,Jack Nicholson,As Good as It Gets,60,New York,1937-04-22,4,22,1937,346,Male,White,Roberto Benigni,Life Is Beautiful,Nomination
+70,1998,Best actor,Jack Nicholson,As Good as It Gets,60,New York,1937-04-22,4,22,1937,347,Male,White,John Madden,Shakespeare in Love,Nomination
+70,1998,Best actor,Jack Nicholson,As Good as It Gets,60,New York,1937-04-22,4,22,1937,348,Male,White,Terrence Malick,The Thin Red Line,Nomination
+70,1998,Best actor,Jack Nicholson,As Good as It Gets,60,New York,1937-04-22,4,22,1937,349,Male,White,Peter Weir,The Truman Show,Nomination
+71,1999,Best actress,Gwyneth Paltrow,Shakespeare in Love,26,California,1972-09-28,9,28,1972,350,Male,White,Sam Mendes,American Beauty,Winner
+71,1999,Best actress,Gwyneth Paltrow,Shakespeare in Love,26,California,1972-09-28,9,28,1972,351,Male,White,Lasse Hallström,The Cider House Rules,Nomination
+71,1999,Best actress,Gwyneth Paltrow,Shakespeare in Love,26,California,1972-09-28,9,28,1972,352,Male,White,Spike Jonze,Being John Malkovich,Nomination
+71,1999,Best actress,Gwyneth Paltrow,Shakespeare in Love,26,California,1972-09-28,9,28,1972,353,Male,White,Michael Mann,The Insider,Nomination
+71,1999,Best actress,Gwyneth Paltrow,Shakespeare in Love,26,California,1972-09-28,9,28,1972,354,Male,White,M. Night Shyamalan,The Sixth Sense,Nomination
+71,1999,Best actor,Roberto Benigni,Life is Beautiful,46,Italy,1952-10-27,10,27,1952,350,Male,White,Sam Mendes,American Beauty,Winner
+71,1999,Best actor,Roberto Benigni,Life is Beautiful,46,Italy,1952-10-27,10,27,1952,351,Male,White,Lasse Hallström,The Cider House Rules,Nomination
+71,1999,Best actor,Roberto Benigni,Life is Beautiful,46,Italy,1952-10-27,10,27,1952,352,Male,White,Spike Jonze,Being John Malkovich,Nomination
+71,1999,Best actor,Roberto Benigni,Life is Beautiful,46,Italy,1952-10-27,10,27,1952,353,Male,White,Michael Mann,The Insider,Nomination
+71,1999,Best actor,Roberto Benigni,Life is Beautiful,46,Italy,1952-10-27,10,27,1952,354,Male,White,M. Night Shyamalan,The Sixth Sense,Nomination
+72,2000,Best actress,Hilary Swank,Boys Don't Cry,25,Washington,1974-07-30,7,30,1974,355,Male,White,Steven Soderbergh,Traffic,Winner
+72,2000,Best actress,Hilary Swank,Boys Don't Cry,25,Washington,1974-07-30,7,30,1974,356,Male,White,Stephen Daldry,Billy Elliot,Nomination
+72,2000,Best actress,Hilary Swank,Boys Don't Cry,25,Washington,1974-07-30,7,30,1974,357,Male,White,Ang Lee,"Crouching Tiger, Hidden Dragon",Nomination
+72,2000,Best actress,Hilary Swank,Boys Don't Cry,25,Washington,1974-07-30,7,30,1974,358,Male,White,Ridley Scott,Gladiator,Nomination
+72,2000,Best actress,Hilary Swank,Boys Don't Cry,25,Washington,1974-07-30,7,30,1974,359,Male,White,Steven Soderbergh,Erin Brockovich,Nomination
+72,2000,Best actor,Kevin Spacey,American Beauty,40,New Jersey,1959-07-26,7,26,1959,355,Male,White,Steven Soderbergh,Traffic,Winner
+72,2000,Best actor,Kevin Spacey,American Beauty,40,New Jersey,1959-07-26,7,26,1959,356,Male,White,Stephen Daldry,Billy Elliot,Nomination
+72,2000,Best actor,Kevin Spacey,American Beauty,40,New Jersey,1959-07-26,7,26,1959,357,Male,White,Ang Lee,"Crouching Tiger, Hidden Dragon",Nomination
+72,2000,Best actor,Kevin Spacey,American Beauty,40,New Jersey,1959-07-26,7,26,1959,358,Male,White,Ridley Scott,Gladiator,Nomination
+72,2000,Best actor,Kevin Spacey,American Beauty,40,New Jersey,1959-07-26,7,26,1959,359,Male,White,Steven Soderbergh,Erin Brockovich,Nomination
+73,2001,Best actress,Julia Roberts,Erin Brockovich,33,Georgia,1967-10-28,10,28,1967,360,Male,White,Ron Howard,A Beautiful Mind,Winner
+73,2001,Best actress,Julia Roberts,Erin Brockovich,33,Georgia,1967-10-28,10,28,1967,361,Male,White,Robert Altman,Gosford Park,Nomination
+73,2001,Best actress,Julia Roberts,Erin Brockovich,33,Georgia,1967-10-28,10,28,1967,362,Male,White,Peter Jackson,The Lord of the Rings: The Fellowship of the Ring,Nomination
+73,2001,Best actress,Julia Roberts,Erin Brockovich,33,Georgia,1967-10-28,10,28,1967,363,Male,White,David Lynch,Mulholland Drive,Nomination
+73,2001,Best actress,Julia Roberts,Erin Brockovich,33,Georgia,1967-10-28,10,28,1967,364,Male,White,Ridley Scott,Black Hawk Down,Nomination
+73,2001,Best actor,Russell Crowe,Gladiator,36,New Zealand,1964-04-07,4,7,1964,360,Male,White,Ron Howard,A Beautiful Mind,Winner
+73,2001,Best actor,Russell Crowe,Gladiator,36,New Zealand,1964-04-07,4,7,1964,361,Male,White,Robert Altman,Gosford Park,Nomination
+73,2001,Best actor,Russell Crowe,Gladiator,36,New Zealand,1964-04-07,4,7,1964,362,Male,White,Peter Jackson,The Lord of the Rings: The Fellowship of the Ring,Nomination
+73,2001,Best actor,Russell Crowe,Gladiator,36,New Zealand,1964-04-07,4,7,1964,363,Male,White,David Lynch,Mulholland Drive,Nomination
+73,2001,Best actor,Russell Crowe,Gladiator,36,New Zealand,1964-04-07,4,7,1964,364,Male,White,Ridley Scott,Black Hawk Down,Nomination
+74,2002,Best actress,Halle Berry,Monster's Ball,35,Ohio,1966-08-14,8,14,1966,365,Male,White,Roman Polanski,The Pianist,Winner
+74,2002,Best actress,Halle Berry,Monster's Ball,35,Ohio,1966-08-14,8,14,1966,366,Male,White,Pedro Almodóvar,Talk to Her,Nomination
+74,2002,Best actress,Halle Berry,Monster's Ball,35,Ohio,1966-08-14,8,14,1966,367,Male,White,Stephen Daldry,The Hours,Nomination
+74,2002,Best actress,Halle Berry,Monster's Ball,35,Ohio,1966-08-14,8,14,1966,368,Male,White,Rob Marshall,Chicago,Nomination
+74,2002,Best actress,Halle Berry,Monster's Ball,35,Ohio,1966-08-14,8,14,1966,369,Male,White,Martin Scorsese,Gangs of New York,Nomination
+74,2002,Best actor,Denzel Washington,Training Day,47,New York,1954-12-28,12,28,1954,365,Male,White,Roman Polanski,The Pianist,Winner
+74,2002,Best actor,Denzel Washington,Training Day,47,New York,1954-12-28,12,28,1954,366,Male,White,Pedro Almodóvar,Talk to Her,Nomination
+74,2002,Best actor,Denzel Washington,Training Day,47,New York,1954-12-28,12,28,1954,367,Male,White,Stephen Daldry,The Hours,Nomination
+74,2002,Best actor,Denzel Washington,Training Day,47,New York,1954-12-28,12,28,1954,368,Male,White,Rob Marshall,Chicago,Nomination
+74,2002,Best actor,Denzel Washington,Training Day,47,New York,1954-12-28,12,28,1954,369,Male,White,Martin Scorsese,Gangs of New York,Nomination
+75,2003,Best actress,Nicole Kidman,The Hours,35,Australia,1967-06-20,6,20,1967,370,Male,White,Peter Jackson,The Lord of the Rings: The Return of the King,Winner
+75,2003,Best actress,Nicole Kidman,The Hours,35,Australia,1967-06-20,6,20,1967,371,Female,White,Sofia Coppola,Lost in Translation,Nomination
+75,2003,Best actress,Nicole Kidman,The Hours,35,Australia,1967-06-20,6,20,1967,372,Male,White,Clint Eastwood,Mystic River,Nomination
+75,2003,Best actress,Nicole Kidman,The Hours,35,Australia,1967-06-20,6,20,1967,373,Male,White,Fernando Meirelles,City of God,Nomination
+75,2003,Best actress,Nicole Kidman,The Hours,35,Australia,1967-06-20,6,20,1967,374,Male,White,Peter Weir,Master and Commander: The Far Side of the World,Nomination
+75,2003,Best actor,Adrien Brody,The Pianist,29,New York,1973-04-14,4,14,1973,370,Male,White,Peter Jackson,The Lord of the Rings: The Return of the King,Winner
+75,2003,Best actor,Adrien Brody,The Pianist,29,New York,1973-04-14,4,14,1973,371,Female,White,Sofia Coppola,Lost in Translation,Nomination
+75,2003,Best actor,Adrien Brody,The Pianist,29,New York,1973-04-14,4,14,1973,372,Male,White,Clint Eastwood,Mystic River,Nomination
+75,2003,Best actor,Adrien Brody,The Pianist,29,New York,1973-04-14,4,14,1973,373,Male,White,Fernando Meirelles,City of God,Nomination
+75,2003,Best actor,Adrien Brody,The Pianist,29,New York,1973-04-14,4,14,1973,374,Male,White,Peter Weir,Master and Commander: The Far Side of the World,Nomination
+76,2004,Best actress,Charlize Theron,Monster,28,South Africa,1975-08-07,8,7,1975,375,Male,White,Clint Eastwood,Million Dollar Baby,Winner
+76,2004,Best actress,Charlize Theron,Monster,28,South Africa,1975-08-07,8,7,1975,376,Male,White,Taylor Hackford,Ray,Nomination
+76,2004,Best actress,Charlize Theron,Monster,28,South Africa,1975-08-07,8,7,1975,377,Male,White,Mike Leigh,Vera Drake,Nomination
+76,2004,Best actress,Charlize Theron,Monster,28,South Africa,1975-08-07,8,7,1975,378,Male,White,Alexander Payne,Sideways,Nomination
+76,2004,Best actress,Charlize Theron,Monster,28,South Africa,1975-08-07,8,7,1975,379,Male,White,Martin Scorsese,The Aviator,Nomination
+76,2004,Best actor,Sean Penn,Mystic River,43,California,1960-08-17,8,17,1960,375,Male,White,Clint Eastwood,Million Dollar Baby,Winner
+76,2004,Best actor,Sean Penn,Mystic River,43,California,1960-08-17,8,17,1960,376,Male,White,Taylor Hackford,Ray,Nomination
+76,2004,Best actor,Sean Penn,Mystic River,43,California,1960-08-17,8,17,1960,377,Male,White,Mike Leigh,Vera Drake,Nomination
+76,2004,Best actor,Sean Penn,Mystic River,43,California,1960-08-17,8,17,1960,378,Male,White,Alexander Payne,Sideways,Nomination
+76,2004,Best actor,Sean Penn,Mystic River,43,California,1960-08-17,8,17,1960,379,Male,White,Martin Scorsese,The Aviator,Nomination
+77,2005,Best actress,Hilary Swank,Million Dollar Baby,30,Washington,1974-07-30,7,30,1974,380,Male,White,Ang Lee,Brokeback Mountain,Winner
+77,2005,Best actress,Hilary Swank,Million Dollar Baby,30,Washington,1974-07-30,7,30,1974,381,Male,White,George Clooney,"Good Night, and Good Luck",Nomination
+77,2005,Best actress,Hilary Swank,Million Dollar Baby,30,Washington,1974-07-30,7,30,1974,382,Male,White,Paul Haggis,Crash,Nomination
+77,2005,Best actress,Hilary Swank,Million Dollar Baby,30,Washington,1974-07-30,7,30,1974,383,Male,White,Bennett Miller,Capote,Nomination
+77,2005,Best actress,Hilary Swank,Million Dollar Baby,30,Washington,1974-07-30,7,30,1974,384,Male,White,Steven Spielberg,Munich,Nomination
+77,2005,Best actor,Jamie Foxx,Ray,37,Texas,1967-12-13,12,13,1967,380,Male,White,Ang Lee,Brokeback Mountain,Winner
+77,2005,Best actor,Jamie Foxx,Ray,37,Texas,1967-12-13,12,13,1967,381,Male,White,George Clooney,"Good Night, and Good Luck",Nomination
+77,2005,Best actor,Jamie Foxx,Ray,37,Texas,1967-12-13,12,13,1967,382,Male,White,Paul Haggis,Crash,Nomination
+77,2005,Best actor,Jamie Foxx,Ray,37,Texas,1967-12-13,12,13,1967,383,Male,White,Bennett Miller,Capote,Nomination
+77,2005,Best actor,Jamie Foxx,Ray,37,Texas,1967-12-13,12,13,1967,384,Male,White,Steven Spielberg,Munich,Nomination
+78,2006,Best actress,Reese Witherspoon,Walk the Line,29,Louisiana,1976-03-22,3,22,1976,385,Male,White,Martin Scorsese,The Departed,Winner
+78,2006,Best actress,Reese Witherspoon,Walk the Line,29,Louisiana,1976-03-22,3,22,1976,386,Male,White,Clint Eastwood,Letters from Iwo Jima,Nomination
+78,2006,Best actress,Reese Witherspoon,Walk the Line,29,Louisiana,1976-03-22,3,22,1976,387,Male,White,Stephen Frears,The Queen,Nomination
+78,2006,Best actress,Reese Witherspoon,Walk the Line,29,Louisiana,1976-03-22,3,22,1976,388,Male,White,Paul Greengrass,United 93,Nomination
+78,2006,Best actress,Reese Witherspoon,Walk the Line,29,Louisiana,1976-03-22,3,22,1976,389,Male,White,Alejandro G. Iñárritu,Babel,Nomination
+78,2006,Best actor,Philip Hoffman,Capote,38,New York,1967-07-23,7,23,1967,385,Male,White,Martin Scorsese,The Departed,Winner
+78,2006,Best actor,Philip Hoffman,Capote,38,New York,1967-07-23,7,23,1967,386,Male,White,Clint Eastwood,Letters from Iwo Jima,Nomination
+78,2006,Best actor,Philip Hoffman,Capote,38,New York,1967-07-23,7,23,1967,387,Male,White,Stephen Frears,The Queen,Nomination
+78,2006,Best actor,Philip Hoffman,Capote,38,New York,1967-07-23,7,23,1967,388,Male,White,Paul Greengrass,United 93,Nomination
+78,2006,Best actor,Philip Hoffman,Capote,38,New York,1967-07-23,7,23,1967,389,Male,White,Alejandro G. Iñárritu,Babel,Nomination
+79,2007,Best actress,Helen Mirren,The Queen,61,England,1945-07-26,7,26,1945,390,Male,White,Joel Coen and Ethan Coen,No Country for Old Men,Winner
+79,2007,Best actress,Helen Mirren,The Queen,61,England,1945-07-26,7,26,1945,391,Male,White,Paul Thomas Anderson,There Will Be Blood,Nomination
+79,2007,Best actress,Helen Mirren,The Queen,61,England,1945-07-26,7,26,1945,392,Male,White,Tony Gilroy,Michael Clayton,Nomination
+79,2007,Best actress,Helen Mirren,The Queen,61,England,1945-07-26,7,26,1945,393,Male,White,Jason Reitman,Juno,Nomination
+79,2007,Best actress,Helen Mirren,The Queen,61,England,1945-07-26,7,26,1945,394,Male,White,Julian Schnabel,The Diving Bell and the Butterfly,Nomination
+79,2007,Best actor,Forest Whitaker,The Last King of Scotland,45,California,1961-07-15,7,15,1961,390,Male,White,Joel Coen and Ethan Coen,No Country for Old Men,Winner
+79,2007,Best actor,Forest Whitaker,The Last King of Scotland,45,California,1961-07-15,7,15,1961,391,Male,White,Paul Thomas Anderson,There Will Be Blood,Nomination
+79,2007,Best actor,Forest Whitaker,The Last King of Scotland,45,California,1961-07-15,7,15,1961,392,Male,White,Tony Gilroy,Michael Clayton,Nomination
+79,2007,Best actor,Forest Whitaker,The Last King of Scotland,45,California,1961-07-15,7,15,1961,393,Male,White,Jason Reitman,Juno,Nomination
+79,2007,Best actor,Forest Whitaker,The Last King of Scotland,45,California,1961-07-15,7,15,1961,394,Male,White,Julian Schnabel,The Diving Bell and the Butterfly,Nomination
+80,2008,Best actress,Marion Cotillard,La Vie en Rose,32,France,1975-09-30,9,30,1975,395,Male,White,Danny Boyle,Slumdog Millionaire,Winner
+80,2008,Best actress,Marion Cotillard,La Vie en Rose,32,France,1975-09-30,9,30,1975,396,Male,White,Stephen Daldry,The Reader,Nomination
+80,2008,Best actress,Marion Cotillard,La Vie en Rose,32,France,1975-09-30,9,30,1975,397,Male,White,David Fincher,The Curious Case of Benjamin Button,Nomination
+80,2008,Best actress,Marion Cotillard,La Vie en Rose,32,France,1975-09-30,9,30,1975,398,Male,White,Ron Howard,Frost/Nixon,Nomination
+80,2008,Best actress,Marion Cotillard,La Vie en Rose,32,France,1975-09-30,9,30,1975,399,Male,White,Gus Van Sant,Milk,Nomination
+80,2008,Best actor,Daniel Day-Lewis,There Will Be Blood,50,England,1957-04-29,4,29,1957,395,Male,White,Danny Boyle,Slumdog Millionaire,Winner
+80,2008,Best actor,Daniel Day-Lewis,There Will Be Blood,50,England,1957-04-29,4,29,1957,396,Male,White,Stephen Daldry,The Reader,Nomination
+80,2008,Best actor,Daniel Day-Lewis,There Will Be Blood,50,England,1957-04-29,4,29,1957,397,Male,White,David Fincher,The Curious Case of Benjamin Button,Nomination
+80,2008,Best actor,Daniel Day-Lewis,There Will Be Blood,50,England,1957-04-29,4,29,1957,398,Male,White,Ron Howard,Frost/Nixon,Nomination
+80,2008,Best actor,Daniel Day-Lewis,There Will Be Blood,50,England,1957-04-29,4,29,1957,399,Male,White,Gus Van Sant,Milk,Nomination
+81,2009,Best actress,Kate Winslet,The Reader,33,England,1975-10-05,10,5,1975,400,Female,White,Kathryn Bigelow,The Hurt Locker,Winner
+81,2009,Best actress,Kate Winslet,The Reader,33,England,1975-10-05,10,5,1975,401,Male,White,James Cameron,Avatar,Nomination
+81,2009,Best actress,Kate Winslet,The Reader,33,England,1975-10-05,10,5,1975,402,Male,Black,Lee Daniels,Precious,Nomination
+81,2009,Best actress,Kate Winslet,The Reader,33,England,1975-10-05,10,5,1975,403,Male,White,Jason Reitman,Up in the Air,Nomination
+81,2009,Best actress,Kate Winslet,The Reader,33,England,1975-10-05,10,5,1975,404,Male,White,Quentin Tarantino,Inglourious Basterds,Nomination
+81,2009,Best actor,Sean Penn,Milk,48,California,1960-08-17,8,17,1960,400,Female,White,Kathryn Bigelow,The Hurt Locker,Winner
+81,2009,Best actor,Sean Penn,Milk,48,California,1960-08-17,8,17,1960,401,Male,White,James Cameron,Avatar,Nomination
+81,2009,Best actor,Sean Penn,Milk,48,California,1960-08-17,8,17,1960,402,Male,Black,Lee Daniels,Precious,Nomination
+81,2009,Best actor,Sean Penn,Milk,48,California,1960-08-17,8,17,1960,403,Male,White,Jason Reitman,Up in the Air,Nomination
+81,2009,Best actor,Sean Penn,Milk,48,California,1960-08-17,8,17,1960,404,Male,White,Quentin Tarantino,Inglourious Basterds,Nomination
+82,2010,Best actress,Sandra Bullock,The Blind Side,45,Virginia,1964-07-26,7,26,1964,405,Male,White,Tom Hooper,The King's Speech,Winner
+82,2010,Best actress,Sandra Bullock,The Blind Side,45,Virginia,1964-07-26,7,26,1964,406,Male,White,Darren Aronofsky,Black Swan,Nomination
+82,2010,Best actress,Sandra Bullock,The Blind Side,45,Virginia,1964-07-26,7,26,1964,407,Male,White,Joel Coen and Ethan Coen,True Grit,Nomination
+82,2010,Best actress,Sandra Bullock,The Blind Side,45,Virginia,1964-07-26,7,26,1964,408,Male,White,David Fincher,The Social Network,Nomination
+82,2010,Best actress,Sandra Bullock,The Blind Side,45,Virginia,1964-07-26,7,26,1964,409,Male,White,David O. Russell,The Fighter,Nomination
+82,2010,Best actor,Jeff Bridges,Crazy Heart,60,California,1949-12-04,12,4,1949,405,Male,White,Tom Hooper,The King's Speech,Winner
+82,2010,Best actor,Jeff Bridges,Crazy Heart,60,California,1949-12-04,12,4,1949,406,Male,White,Darren Aronofsky,Black Swan,Nomination
+82,2010,Best actor,Jeff Bridges,Crazy Heart,60,California,1949-12-04,12,4,1949,407,Male,White,Joel Coen and Ethan Coen,True Grit,Nomination
+82,2010,Best actor,Jeff Bridges,Crazy Heart,60,California,1949-12-04,12,4,1949,408,Male,White,David Fincher,The Social Network,Nomination
+82,2010,Best actor,Jeff Bridges,Crazy Heart,60,California,1949-12-04,12,4,1949,409,Male,White,David O. Russell,The Fighter,Nomination
+83,2011,Best actress,Natalie Portman,Black Swan,29,Israel,1981-09-06,9,6,1981,410,Male,White,Michel Hazanavicius,The Artist,Winner
+83,2011,Best actress,Natalie Portman,Black Swan,29,Israel,1981-09-06,9,6,1981,411,Male,White,Woody Allen,Midnight in Paris,Nomination
+83,2011,Best actress,Natalie Portman,Black Swan,29,Israel,1981-09-06,9,6,1981,412,Male,White,Terrence Malick,The Tree of Life,Nomination
+83,2011,Best actress,Natalie Portman,Black Swan,29,Israel,1981-09-06,9,6,1981,413,Male,White,Alexander Payne,The Descendants,Nomination
+83,2011,Best actress,Natalie Portman,Black Swan,29,Israel,1981-09-06,9,6,1981,414,Male,White,Martin Scorsese,Hugo,Nomination
+83,2011,Best actor,Colin Firth,The King's Speech,50,England,1960-10-09,10,9,1960,410,Male,White,Michel Hazanavicius,The Artist,Winner
+83,2011,Best actor,Colin Firth,The King's Speech,50,England,1960-10-09,10,9,1960,411,Male,White,Woody Allen,Midnight in Paris,Nomination
+83,2011,Best actor,Colin Firth,The King's Speech,50,England,1960-10-09,10,9,1960,412,Male,White,Terrence Malick,The Tree of Life,Nomination
+83,2011,Best actor,Colin Firth,The King's Speech,50,England,1960-10-09,10,9,1960,413,Male,White,Alexander Payne,The Descendants,Nomination
+83,2011,Best actor,Colin Firth,The King's Speech,50,England,1960-10-09,10,9,1960,414,Male,White,Martin Scorsese,Hugo,Nomination
+84,2012,Best actress,Meryl Streep,The Iron Lady,62,New Jersey,1949-06-22,6,22,1949,415,Male,White,Ang Lee,Life of Pi,Winner
+84,2012,Best actress,Meryl Streep,The Iron Lady,62,New Jersey,1949-06-22,6,22,1949,416,Male,White,Michael Haneke,Amour,Nomination
+84,2012,Best actress,Meryl Streep,The Iron Lady,62,New Jersey,1949-06-22,6,22,1949,417,Male,White,David O. Russell,Silver Linings Playbook,Nomination
+84,2012,Best actress,Meryl Streep,The Iron Lady,62,New Jersey,1949-06-22,6,22,1949,418,Male,White,Steven Spielberg,Lincoln,Nomination
+84,2012,Best actress,Meryl Streep,The Iron Lady,62,New Jersey,1949-06-22,6,22,1949,419,Male,White,Benh Zeitlin,Beasts of the Southern Wild,Nomination
+84,2012,Best actor,Jean Dujardin,The Artist,39,France,1972-07-19,7,19,1972,415,Male,White,Ang Lee,Life of Pi,Winner
+84,2012,Best actor,Jean Dujardin,The Artist,39,France,1972-07-19,7,19,1972,416,Male,White,Michael Haneke,Amour,Nomination
+84,2012,Best actor,Jean Dujardin,The Artist,39,France,1972-07-19,7,19,1972,417,Male,White,David O. Russell,Silver Linings Playbook,Nomination
+84,2012,Best actor,Jean Dujardin,The Artist,39,France,1972-07-19,7,19,1972,418,Male,White,Steven Spielberg,Lincoln,Nomination
+84,2012,Best actor,Jean Dujardin,The Artist,39,France,1972-07-19,7,19,1972,419,Male,White,Benh Zeitlin,Beasts of the Southern Wild,Nomination
+85,2013,Best actress,Jennifer Lawrence,Silver Linings Playbook,22,Kentucky,1990-08-15,8,15,1990,420,Male,White,Alfonso Cuarón,Gravity,Winner
+85,2013,Best actress,Jennifer Lawrence,Silver Linings Playbook,22,Kentucky,1990-08-15,8,15,1990,421,Male,Black,Steve McQueen,12 Years a Slave,Nomination
+85,2013,Best actress,Jennifer Lawrence,Silver Linings Playbook,22,Kentucky,1990-08-15,8,15,1990,422,Male,White,Alexander Payne,Nebraska,Nomination
+85,2013,Best actress,Jennifer Lawrence,Silver Linings Playbook,22,Kentucky,1990-08-15,8,15,1990,423,Male,White,David O. Russell,American Hustle,Nomination
+85,2013,Best actress,Jennifer Lawrence,Silver Linings Playbook,22,Kentucky,1990-08-15,8,15,1990,424,Male,White,Martin Scorsese,The Wolf of Wall Street,Nomination
+85,2013,Best actor,Daniel Day-Lewis,Lincoln,55,England,1957-04-29,4,29,1957,420,Male,White,Alfonso Cuarón,Gravity,Winner
+85,2013,Best actor,Daniel Day-Lewis,Lincoln,55,England,1957-04-29,4,29,1957,421,Male,Black,Steve McQueen,12 Years a Slave,Nomination
+85,2013,Best actor,Daniel Day-Lewis,Lincoln,55,England,1957-04-29,4,29,1957,422,Male,White,Alexander Payne,Nebraska,Nomination
+85,2013,Best actor,Daniel Day-Lewis,Lincoln,55,England,1957-04-29,4,29,1957,423,Male,White,David O. Russell,American Hustle,Nomination
+85,2013,Best actor,Daniel Day-Lewis,Lincoln,55,England,1957-04-29,4,29,1957,424,Male,White,Martin Scorsese,The Wolf of Wall Street,Nomination
+86,2014,Best actress,Cate Blanchett,Blue Jasmine,44,Australia,1969-05-14,5,14,1969,425,Male,White,Alejandro G. Iñárritu,Birdman,Winner
+86,2014,Best actress,Cate Blanchett,Blue Jasmine,44,Australia,1969-05-14,5,14,1969,426,Male,White,Wes Anderson,The Grand Budapest Hotel,Nomination
+86,2014,Best actress,Cate Blanchett,Blue Jasmine,44,Australia,1969-05-14,5,14,1969,427,Male,White,Richard Linklater,Boyhood,Nomination
+86,2014,Best actress,Cate Blanchett,Blue Jasmine,44,Australia,1969-05-14,5,14,1969,428,Male,White,Bennett Miller,Foxcatcher,Nomination
+86,2014,Best actress,Cate Blanchett,Blue Jasmine,44,Australia,1969-05-14,5,14,1969,429,Male,White,Morten Tyldum,The Imitation Game,Nomination
+86,2014,Best actor,Matthew McConaughey,Dallas Buyers Club,44,Texas,1969-11-04,11,4,1969,425,Male,White,Alejandro G. Iñárritu,Birdman,Winner
+86,2014,Best actor,Matthew McConaughey,Dallas Buyers Club,44,Texas,1969-11-04,11,4,1969,426,Male,White,Wes Anderson,The Grand Budapest Hotel,Nomination
+86,2014,Best actor,Matthew McConaughey,Dallas Buyers Club,44,Texas,1969-11-04,11,4,1969,427,Male,White,Richard Linklater,Boyhood,Nomination
+86,2014,Best actor,Matthew McConaughey,Dallas Buyers Club,44,Texas,1969-11-04,11,4,1969,428,Male,White,Bennett Miller,Foxcatcher,Nomination
+86,2014,Best actor,Matthew McConaughey,Dallas Buyers Club,44,Texas,1969-11-04,11,4,1969,429,Male,White,Morten Tyldum,The Imitation Game,Nomination
+87,2015,Best actress,Julianne Moore,Still Alice,54,North Carolina,1960-12-03,12,3,1960,430,Male,White,Alejandro G. Iñárritu,The Revenant,Winner
+87,2015,Best actress,Julianne Moore,Still Alice,54,North Carolina,1960-12-03,12,3,1960,431,Male,White,Lenny Abrahamson,Room,Nomination
+87,2015,Best actress,Julianne Moore,Still Alice,54,North Carolina,1960-12-03,12,3,1960,432,Male,White,Tom McCarthy,Spotlight,Nomination
+87,2015,Best actress,Julianne Moore,Still Alice,54,North Carolina,1960-12-03,12,3,1960,433,Male,White,Adam McKay,The Big Short,Nomination
+87,2015,Best actress,Julianne Moore,Still Alice,54,North Carolina,1960-12-03,12,3,1960,434,Male,White,George Miller,Mad Max: Fury Road,Nomination
+87,2015,Best actor,Eddie Redmayne,The Theory of Everything,32,England,1982-01-06,1,6,1982,430,Male,White,Alejandro G. Iñárritu,The Revenant,Winner
+87,2015,Best actor,Eddie Redmayne,The Theory of Everything,32,England,1982-01-06,1,6,1982,431,Male,White,Lenny Abrahamson,Room,Nomination
+87,2015,Best actor,Eddie Redmayne,The Theory of Everything,32,England,1982-01-06,1,6,1982,432,Male,White,Tom McCarthy,Spotlight,Nomination
+87,2015,Best actor,Eddie Redmayne,The Theory of Everything,32,England,1982-01-06,1,6,1982,433,Male,White,Adam McKay,The Big Short,Nomination
+87,2015,Best actor,Eddie Redmayne,The Theory of Everything,32,England,1982-01-06,1,6,1982,434,Male,White,George Miller,Mad Max: Fury Road,Nomination
+88,2016,Best actress,Brie Larson,Room,26,California,1989-10-01,10,1,1989,435,Male,White,Damien Chazelle,La La Land,Winner
+88,2016,Best actress,Brie Larson,Room,26,California,1989-10-01,10,1,1989,436,Male,White,Mel Gibson,Hacksaw Ridge,Nomination
+88,2016,Best actress,Brie Larson,Room,26,California,1989-10-01,10,1,1989,437,Male,Black,Barry Jenkins,Moonlight,Nomination
+88,2016,Best actress,Brie Larson,Room,26,California,1989-10-01,10,1,1989,438,Male,White,Kenneth Lonergan,Manchester by the Sea,Nomination
+88,2016,Best actress,Brie Larson,Room,26,California,1989-10-01,10,1,1989,439,Male,White,Denis Villeneuve,Arrival,Nomination
+88,2016,Best actor,Leonardo Di Caprio,The Revenant,41,California,1974-11-11,11,11,1974,435,Male,White,Damien Chazelle,La La Land,Winner
+88,2016,Best actor,Leonardo Di Caprio,The Revenant,41,California,1974-11-11,11,11,1974,436,Male,White,Mel Gibson,Hacksaw Ridge,Nomination
+88,2016,Best actor,Leonardo Di Caprio,The Revenant,41,California,1974-11-11,11,11,1974,437,Male,Black,Barry Jenkins,Moonlight,Nomination
+88,2016,Best actor,Leonardo Di Caprio,The Revenant,41,California,1974-11-11,11,11,1974,438,Male,White,Kenneth Lonergan,Manchester by the Sea,Nomination
+88,2016,Best actor,Leonardo Di Caprio,The Revenant,41,California,1974-11-11,11,11,1974,439,Male,White,Denis Villeneuve,Arrival,Nomination
+89,2017,Best actress,Emma Stone,La La Land,28,Arizona,1988-11-06,11,6,1988,440,Male,White,Guillermo del Toro,The Shape of Water,Winner
+89,2017,Best actress,Emma Stone,La La Land,28,Arizona,1988-11-06,11,6,1988,441,Male,White,Paul Thomas Anderson,Phantom Thread,Nomination
+89,2017,Best actress,Emma Stone,La La Land,28,Arizona,1988-11-06,11,6,1988,442,Female,White,Greta Gerwig,Lady Bird,Nomination
+89,2017,Best actress,Emma Stone,La La Land,28,Arizona,1988-11-06,11,6,1988,443,Male,White,Christopher Nolan,Dunkirk,Nomination
+89,2017,Best actress,Emma Stone,La La Land,28,Arizona,1988-11-06,11,6,1988,444,Male,Black,Jordan Peele,Get Out,Nomination
+89,2017,Best actor,Casey Affleck,Manchester by the Sa,41,Massachusetts,1975-08-12,8,12,1975,440,Male,White,Guillermo del Toro,The Shape of Water,Winner
+89,2017,Best actor,Casey Affleck,Manchester by the Sa,41,Massachusetts,1975-08-12,8,12,1975,441,Male,White,Paul Thomas Anderson,Phantom Thread,Nomination
+89,2017,Best actor,Casey Affleck,Manchester by the Sa,41,Massachusetts,1975-08-12,8,12,1975,442,Female,White,Greta Gerwig,Lady Bird,Nomination
+89,2017,Best actor,Casey Affleck,Manchester by the Sa,41,Massachusetts,1975-08-12,8,12,1975,443,Male,White,Christopher Nolan,Dunkirk,Nomination
+89,2017,Best actor,Casey Affleck,Manchester by the Sa,41,Massachusetts,1975-08-12,8,12,1975,444,Male,Black,Jordan Peele,Get Out,Nomination
+90,2018,Best actress,Frances McDormand,Three Billboards Outside of Ebbing Missouri,60,Illinois,1957-06-23,6,23,1957,445,Male,White,Alfonso Cuarón,Roma,Winner
+90,2018,Best actress,Frances McDormand,Three Billboards Outside of Ebbing Missouri,60,Illinois,1957-06-23,6,23,1957,446,Male,White,Yorgos Lanthimos,The Favourite,Nomination
+90,2018,Best actress,Frances McDormand,Three Billboards Outside of Ebbing Missouri,60,Illinois,1957-06-23,6,23,1957,447,Male,Black,Spike Lee,BlacKkKlansman,Nomination
+90,2018,Best actress,Frances McDormand,Three Billboards Outside of Ebbing Missouri,60,Illinois,1957-06-23,6,23,1957,448,Male,White,Adam McKay,Vice,Nomination
+90,2018,Best actress,Frances McDormand,Three Billboards Outside of Ebbing Missouri,60,Illinois,1957-06-23,6,23,1957,449,Male,White,Paweł Pawlikowski,Cold War,Nomination
+90,2018,Best actor,Gary Oldman,Darkest Hour,59,England,1958-03-21,3,21,1958,445,Male,White,Alfonso Cuarón,Roma,Winner
+90,2018,Best actor,Gary Oldman,Darkest Hour,59,England,1958-03-21,3,21,1958,446,Male,White,Yorgos Lanthimos,The Favourite,Nomination
+90,2018,Best actor,Gary Oldman,Darkest Hour,59,England,1958-03-21,3,21,1958,447,Male,Black,Spike Lee,BlacKkKlansman,Nomination
+90,2018,Best actor,Gary Oldman,Darkest Hour,59,England,1958-03-21,3,21,1958,448,Male,White,Adam McKay,Vice,Nomination
+90,2018,Best actor,Gary Oldman,Darkest Hour,59,England,1958-03-21,3,21,1958,449,Male,White,Paweł Pawlikowski,Cold War,Nomination
+91,2019,Best actress,Olivia Colman,The Favourite,44,England,1974-01-30,1,30,1974,450,Male,White,Bong Joon-ho,Parasite,Winner
+91,2019,Best actress,Olivia Colman,The Favourite,44,England,1974-01-30,1,30,1974,451,Male,White,Sam Mendes,1917,Nomination
+91,2019,Best actress,Olivia Colman,The Favourite,44,England,1974-01-30,1,30,1974,452,Male,White,Todd Phillips,Joker,Nomination
+91,2019,Best actress,Olivia Colman,The Favourite,44,England,1974-01-30,1,30,1974,453,Male,White,Martin Scorsese,The Irishman,Nomination
+91,2019,Best actress,Olivia Colman,The Favourite,44,England,1974-01-30,1,30,1974,454,Male,White,Quentin Tarantino,Once Upon a Time in Hollywood,Nomination
+91,2019,Best actor,Rami Malek,Bohemian Rhapsody,37,California,1981-05-12,5,12,1981,450,Male,White,Bong Joon-ho,Parasite,Winner
+91,2019,Best actor,Rami Malek,Bohemian Rhapsody,37,California,1981-05-12,5,12,1981,451,Male,White,Sam Mendes,1917,Nomination
+91,2019,Best actor,Rami Malek,Bohemian Rhapsody,37,California,1981-05-12,5,12,1981,452,Male,White,Todd Phillips,Joker,Nomination
+91,2019,Best actor,Rami Malek,Bohemian Rhapsody,37,California,1981-05-12,5,12,1981,453,Male,White,Martin Scorsese,The Irishman,Nomination
+91,2019,Best actor,Rami Malek,Bohemian Rhapsody,37,California,1981-05-12,5,12,1981,454,Male,White,Quentin Tarantino,Once Upon a Time in Hollywood,Nomination
