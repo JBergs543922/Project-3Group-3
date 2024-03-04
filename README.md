@@ -2,6 +2,8 @@
 GWU Data Analysis Course Project#3 Group #3
 Participants: Melina Hernandez, Andrew Jessberger, Derick Ngeyen, Adam Sorokes
 
+#### For this project we assessed the Oscars by looking into the characteristics of the winners in the categories best actors, best actress, best director, and best picture
+
 ## IMDB The Sequel API Access
 ### GWU Project3Group3
 
@@ -40,6 +42,7 @@ This function saves a DataFrame to a CSV file.
 This function serves as the main prompt interface for users to interact with the API.
 
 ### Create ERD
+Create ERD that displays all desired tables
 
 ### Create SQL Tables
 Tables should include actor table, actress table, director table, and year. Import data
@@ -49,3 +52,35 @@ Merge data and clean all data to create one csv file. Clean data for each table 
 
 ### Import Data
 Import data into each table, save tables with all data included, and then assess data found.
+
+## Additional Libraries and CSV Data
+
+In addition to the primary functionality, the API also utilizes various libraries and additional CSV data for extended capabilities.
+
+### Libraries
+The following Python libraries are utilized within the API:
+- pandas
+- pathlib
+- pyspark
+- matplotlib.pyplot
+- numpy
+- datetime
+- scipy.stats.linregress
+
+### Additional CSV Data
+The API imports and works with the following CSV data files:
+1. **Oscar Winners - Director.csv**
+   - Contains information about Oscar-winning directors.
+   - Sample columns: `Year`, `Gender`, `Race`, `Director(s)`, `Film`, `Nomination/Winner`
+
+2. **oscars.csv**
+   - Contains data about Oscar awards, nominees, and winners.
+   - Sample columns: `oscar_no`, `oscar_yr`, `award`, `name`, `movie`, `age`, `birth_pl`, `birth_date`, `birth_mo`, `birth_d`, `birth_y`
+
+### Usage Examples
+#### Merging DataFrames
+```python
+# Merge Oscars DataFrame with Directors DataFrame
+full_oscar_df = pd.merge(oscars_data_df, directors_data_df, on='oscar_yr', how='inner')
+print(full_oscar_df)
+
