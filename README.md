@@ -70,7 +70,7 @@ The following Python libraries are utilized within the API:
 
 ## Ethical Considerations
 
-In the development of this project, we paid careful attention to ethical considerations in order to ensure the responsible use of data. Efforts were made by us to ensure that all the data used in the project was obtained ethically by looking at publically available table. Additionally, steps were taken to minimize biases in data collection, processing, and analysis. Continuous efforts are made to evaluate and address any ethical implications that may arise throughout the project lifecycle.
+In the development of this project, we paid careful attention to ethical considerations in order to ensure the responsible use of data. Efforts were made by us to ensure that all the data used in the project was obtained ethically by looking at publically available data. Additionally, steps were taken to minimize biases in data collection, processing, and analysis. Continuous efforts are made to evaluate and address any ethical implications that may arise throughout the project lifecycle.
 
 ## References
 
