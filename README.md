@@ -2,7 +2,8 @@
 GWU Data Analysis Course Project#3 Group #3
 Participants: Melina Hernandez, Andrew Jessberger, Derick Ngeyen, Adam Sorokes
 
-#### For this project we assessed the Oscars by looking into the characteristics of the winners in the categories best actors, best actress, best director, and best picture
+## Purpose
+For this project we assessed the Oscars by looking into the characteristics of the winners in the categories best actors, best actress, best director, and best picture. It is important to understand and assess any implicit bias as it can affect people in all ways.
 
 ## IMDB The Sequel API Access
 ### GWU Project3Group3
@@ -66,6 +67,24 @@ The following Python libraries are utilized within the API:
 - numpy
 - datetime
 - scipy.stats.linregress
+
+## Ethical Considerations
+
+In the development of this project, we paid careful attention to ethical considerations in order to ensure the responsible use of data. Efforts were made by us to ensure that all the data used in the project was obtained ethically by looking at publically available table. Additionally, steps were taken to minimize biases in data collection, processing, and analysis. Continuous efforts are made to evaluate and address any ethical implications that may arise throughout the project lifecycle.
+
+## References
+
+### Data Sources
+- IMDB The Sequel API Access: [Provide link/source]
+- Oscar Winners - Director.csv: (https://www.kaggle.com/datasets/thedevastator/oscar-winning-directors-analysis)
+- oscars.csv: (https://www.openintro.org/data/index.php?data=oscars)
+
+### Code References
+- (https://www.openintro.org/data/index.php?data=oscars)
+- (https://www.kaggle.com/datasets/thedevastator/oscar-winning-directors-analysis)
+
+For more detailed information on the ethical considerations and references for the data sources and code used in the project, please refer to the respective sections above.
+
 
 ### Additional CSV Data
 The API imports and works with the following CSV data files:
