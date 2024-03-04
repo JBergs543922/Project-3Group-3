@@ -75,7 +75,7 @@ In the development of this project, we paid careful attention to ethical conside
 ## References
 
 ### Data Sources
-- IMDB The Sequel API Access: [Provide link/source]
+- IMDB The Sequel API Access: 
 - Oscar Winners - Director.csv: (https://www.kaggle.com/datasets/thedevastator/oscar-winning-directors-analysis)
 - oscars.csv: (https://www.openintro.org/data/index.php?data=oscars)
 
