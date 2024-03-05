@@ -1,33 +1,33 @@
 index,Year,Gender,Race,Director(s),Film,Nomination/Winner
-0,1927/28 ,Male,White,Frank Borzage (Dramatic Picture),7th Heaven,Winner
-1,1927/28 ,Male,White,Herbert Brenon(Dramatic Picture),Sorrell and Son,Nomination
-2,1927/28 ,Male,White,King Vidor(Dramatic Picture),The Crowd,Nomination
-3,1927/28 ,Male,White,Lewis Milestone (Comedy Picture),Two Arabian Knights,Winner
-4,1927/28 ,Male,White,Ted Wilde(Comedy Picture),Speedy,Nomination
-5,1928/1929,Male,White,Frank Lloyd,The Divine Lady,Winner
-6,1928/1929,Male,White,Lionel Barrymore,Madame X,Nomination
-7,1928/1929,Male,White,Harry Beaumont,The Broadway Melody,Nomination
-8,1928/1929,Male,White,Irving Cummings,In Old Arizona,Nomination
-9,1928/1929,Male,White,Frank Lloyd,Drag,Nomination
-10,1928/1929,Male,White,Frank Lloyd,Weary River,Nomination
-11,1928/1929,Male,White,Ernst Lubitsch,The Patriot,Nomination
-12,1929/1930,Male,White,Lewis Milestone,All Quiet on the Western Front,Winner
-13,1929/1930,Male,White,Clarence Brown,Anna Christie,Nomination
-14,1929/1930,Male,White,Clarence Brown,Romance,Nomination
-15,1929/1930,Male,White,Robert Z. Leonard,The Divorcee,Nomination
-16,1929/1930,Male,White,Ernst Lubitsch,The Love Parade,Nomination
-17,1929/1930,Male,White,King Vidor,Hallelujah!,Nomination
-18,1930/1931,Male,White,Norman Taurog,Skippy,Winner
-19,1930/1931,Male,White,Clarence Brown,A Free Soul,Nomination
-20,1930/1931,Male,White,Lewis Milestone,The Front Page,Nomination
-21,1930/1931,Male,White,Wesley Ruggles,Cimarron,Nomination
-22,1930/1931,Male,White,Josef von Sternberg,Morocco,Nomination
-23,1931/1932,Male,White,Frank Borzage,Bad Girl,Winner
-24,1931/1932,Male,White,King Vidor,The Champ,Nomination
-25,1931/1932,Male,White,Josef von Sternberg,Shanghai Express,Nomination
-26,1932/1933,Male,White,Frank Lloyd,Cavalcade,Winner
-27,1932/1933,Male,White,Frank Capra,Lady for a Day,Nomination
-28,1932/1933,Male,White,George Cukor,Little Women,Nomination
+0,1928 ,Male,White,Frank Borzage (Dramatic Picture),7th Heaven,Winner
+1,1928 ,Male,White,Herbert Brenon(Dramatic Picture),Sorrell and Son,Nomination
+2,1928 ,Male,White,King Vidor(Dramatic Picture),The Crowd,Nomination
+3,1928 ,Male,White,Lewis Milestone (Comedy Picture),Two Arabian Knights,Winner
+4,1928 ,Male,White,Ted Wilde(Comedy Picture),Speedy,Nomination
+5,1929,Male,White,Frank Lloyd,The Divine Lady,Winner
+6,1929,Male,White,Lionel Barrymore,Madame X,Nomination
+7,1929,Male,White,Harry Beaumont,The Broadway Melody,Nomination
+8,1929,Male,White,Irving Cummings,In Old Arizona,Nomination
+9,1929,Male,White,Frank Lloyd,Drag,Nomination
+10,1929,Male,White,Frank Lloyd,Weary River,Nomination
+11,1929,Male,White,Ernst Lubitsch,The Patriot,Nomination
+12,1930,Male,White,Lewis Milestone,All Quiet on the Western Front,Winner
+13,1930,Male,White,Clarence Brown,Anna Christie,Nomination
+14,1930,Male,White,Clarence Brown,Romance,Nomination
+15,1930,Male,White,Robert Z. Leonard,The Divorcee,Nomination
+16,1930,Male,White,Ernst Lubitsch,The Love Parade,Nomination
+17,1930,Male,White,King Vidor,Hallelujah!,Nomination
+18,1931,Male,White,Norman Taurog,Skippy,Winner
+19,1931,Male,White,Clarence Brown,A Free Soul,Nomination
+20,1931,Male,White,Lewis Milestone,The Front Page,Nomination
+21,1931,Male,White,Wesley Ruggles,Cimarron,Nomination
+22,1931,Male,White,Josef von Sternberg,Morocco,Nomination
+23,1932,Male,White,Frank Borzage,Bad Girl,Winner
+24,1932,Male,White,King Vidor,The Champ,Nomination
+25,1932,Male,White,Josef von Sternberg,Shanghai Express,Nomination
+26,1933,Male,White,Frank Lloyd,Cavalcade,Winner
+27,1933,Male,White,Frank Capra,Lady for a Day,Nomination
+28,1933,Male,White,George Cukor,Little Women,Nomination
 29,1934,Male,White,Frank Capra,It Happened One Night,Winner
 30,1934,Male,White,Victor Schertzinger,One Night of Love,Nomination
 31,1934,Male,White,W. S. Van Dyke,The Thin Man,Nomination
@@ -356,7 +356,7 @@ index,Year,Gender,Race,Director(s),Film,Nomination/Winner
 354,1999,Male,White,M. Night Shyamalan,The Sixth Sense,Nomination
 355,2000,Male,White,Steven Soderbergh,Traffic,Winner
 356,2000,Male,White,Stephen Daldry,Billy Elliot,Nomination
-357,2000,Male,White,Ang Lee,"Crouching Tiger, Hidden Dragon",Nomination
+357,2000,Male,Asian,Ang Lee,"Crouching Tiger, Hidden Dragon",Nomination
 358,2000,Male,White,Ridley Scott,Gladiator,Nomination
 359,2000,Male,White,Steven Soderbergh,Erin Brockovich,Nomination
 360,2001,Male,White,Ron Howard,A Beautiful Mind,Winner
@@ -388,7 +388,7 @@ index,Year,Gender,Race,Director(s),Film,Nomination/Winner
 386,2006,Male,White,Clint Eastwood,Letters from Iwo Jima,Nomination
 387,2006,Male,White,Stephen Frears,The Queen,Nomination
 388,2006,Male,White,Paul Greengrass,United 93,Nomination
-389,2006,Male,White,Alejandro G. Iñárritu,Babel,Nomination
+389,2006,Male,Hispanic,Alejandro G. Iñárritu,Babel,Nomination
 390,2007,Male,White,Joel Coen and Ethan Coen,No Country for Old Men,Winner
 391,2007,Male,White,Paul Thomas Anderson,There Will Be Blood,Nomination
 392,2007,Male,White,Tony Gilroy,Michael Clayton,Nomination
@@ -414,12 +414,12 @@ index,Year,Gender,Race,Director(s),Film,Nomination/Winner
 412,2011,Male,White,Terrence Malick,The Tree of Life,Nomination
 413,2011,Male,White,Alexander Payne,The Descendants,Nomination
 414,2011,Male,White,Martin Scorsese,Hugo,Nomination
-415,2012,Male,White,Ang Lee,Life of Pi,Winner
+415,2012,Male,Asian,Ang Lee,Life of Pi,Winner
 416,2012,Male,White,Michael Haneke,Amour,Nomination
 417,2012,Male,White,David O. Russell,Silver Linings Playbook,Nomination
 418,2012,Male,White,Steven Spielberg,Lincoln,Nomination
 419,2012,Male,White,Benh Zeitlin,Beasts of the Southern Wild,Nomination
-420,2013,Male,White,Alfonso Cuarón,Gravity,Winner
+420,2013,Male,Hispanic,Alfonso Cuarón,Gravity,Winner
 421,2013,Male,Black,Steve McQueen,12 Years a Slave,Nomination
 422,2013,Male,White,Alexander Payne,Nebraska,Nomination
 423,2013,Male,White,David O. Russell,American Hustle,Nomination
@@ -429,7 +429,7 @@ index,Year,Gender,Race,Director(s),Film,Nomination/Winner
 427,2014,Male,White,Richard Linklater,Boyhood,Nomination
 428,2014,Male,White,Bennett Miller,Foxcatcher,Nomination
 429,2014,Male,White,Morten Tyldum,The Imitation Game,Nomination
-430,2015,Male,White,Alejandro G. Iñárritu,The Revenant,Winner
+430,2015,Male,Hispanic,Alejandro G. Iñárritu,The Revenant,Winner
 431,2015,Male,White,Lenny Abrahamson,Room,Nomination
 432,2015,Male,White,Tom McCarthy,Spotlight,Nomination
 433,2015,Male,White,Adam McKay,The Big Short,Nomination
@@ -439,17 +439,17 @@ index,Year,Gender,Race,Director(s),Film,Nomination/Winner
 437,2016,Male,Black,Barry Jenkins,Moonlight,Nomination
 438,2016,Male,White,Kenneth Lonergan,Manchester by the Sea,Nomination
 439,2016,Male,White,Denis Villeneuve,Arrival,Nomination
-440,2017,Male,White,Guillermo del Toro,The Shape of Water,Winner
+440,2017,Male,Hispanic,Guillermo del Toro,The Shape of Water,Winner
 441,2017,Male,White,Paul Thomas Anderson,Phantom Thread,Nomination
 442,2017,Female,White,Greta Gerwig,Lady Bird,Nomination
 443,2017,Male,White,Christopher Nolan,Dunkirk,Nomination
 444,2017,Male,Black,Jordan Peele,Get Out,Nomination
-445,2018,Male,White,Alfonso Cuarón,Roma,Winner
+445,2018,Male,Hispanic,Alfonso Cuarón,Roma,Winner
 446,2018,Male,White,Yorgos Lanthimos,The Favourite,Nomination
 447,2018,Male,Black,Spike Lee,BlacKkKlansman,Nomination
 448,2018,Male,White,Adam McKay,Vice,Nomination
 449,2018,Male,White,Paweł Pawlikowski,Cold War,Nomination
-450,2019,Male,White,Bong Joon-ho,Parasite,Winner
+450,2019,Male,Asian,Bong Joon-ho,Parasite,Winner
 451,2019,Male,White,Sam Mendes,1917,Nomination
 452,2019,Male,White,Todd Phillips,Joker,Nomination
 453,2019,Male,White,Martin Scorsese,The Irishman,Nomination
